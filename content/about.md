@@ -46,15 +46,11 @@ greeting("John")
 
 ```
 
-$\sqrt{3x-1}+(1+x)^2$ <!--使用单个$表示左对齐，两个$表示居中。-->
-
 {{< icon name="github"      link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
 {{< icon name="facebook"    link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
 {{< icon name="rss"         link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
 {{< icon name="twitter"     link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
 {{< icon name="mail"     link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-
-{{< breadcrumbs >}}
 
 :exclamation:
 
