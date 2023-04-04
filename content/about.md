@@ -32,26 +32,3 @@ LitongLab is a research lab led by Professor Li Tong at Renmin University of Chi
 Currently, we have one teacher and 6 master's students, as well as 13 undergraduate students, for a total of 20 people. We are dedicated to studying and working hard to contribute to the development of the field of networks.
 
 Our lab is equipped with the latest computer network equipment and software, and has professional technical personnel to provide guidance. We encourage students to participate in research projects, providing more opportunities for their future development.
-{{< color-block style="success" >}}
-
-hello world
-{{< /color-block >}}
-
-```python
-print("Hello world!");
-def greeting(name):
-    print(f"Hello, {name}!")
-
-greeting("John")
-
-```
-
-{{< icon name="github"      link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="facebook"    link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="rss"         link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="twitter"     link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon name="mail"     link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-
-:exclamation:
-
-{{< figure src="/clock.jpg" caption="This is a clock" >}}
