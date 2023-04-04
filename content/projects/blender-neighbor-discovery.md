@@ -1,18 +1,34 @@
 ---
-title: 'blender-neighbor-discovery'
+title: '蓝牙邻居发现协议仿真框架及平台'
 weight: 1
 bookcase_cover_src: 'cover/catalogue.png'
 bookcase_cover_src_dark: 'cover/catalogue_dark.png'
 changelogs:
 ---
 
-# About
+**Project Title**: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery
 
-This repository contains the source code of Blender. Blender is a practical simulation framework for Bluetooth Low Energy (BLE) neighbor discovery. A demo application of Blender-as-a-service can be find at [AlgoSpace](https://algospace.top/algorithm/blender_as_a_service/v1.0/).
+**Author(s)**:杨兆祺，曹思源   **instructor**：李彤 
 
-Please cite the papers as follows (or use this [bibtex record](https://github.com/litonglab/blender-neighbor-discovery/blob/blender_py/bibtex.txt)).
+[ [A demo application] ](https://algospace.top/algorithm/blender_as_a_service/v1.0/).
 
-Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang. Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery. ACM International Conference on Mobile, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), pp. 103-110, 2022.[paper](https://github.com/litonglab/blender-neighbor-discovery/blob/blender_py/paper/blender_mswim22.pdf)
-Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu. On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.[paper](https://github.com/litonglab/blender-neighbor-discovery/blob/blender_py/paper/elasticast_infocom23.pdf)
+**Introduction**：In the widely used Bluetooth Low-Energy (BLE) neighbor discovery, the parameter configuration of neighbor discovery directly decides the results of the trade-off between discovery latency and power consumption. Therefore, it requires evaluating whether any given parameter configuration meets the demands. The existing solutions, however, are far from satisfactory due to unsolved issues. 
 
-{{< figure src="/images/project1.png" caption="" >}}
+Blender, a simulation framework that produces a determined and full probabilistic distribution of discovery latency for a given parameter configuration. To capture the key features in practice, Blender provides adaption to the stochastic factors such as the channel collision and the random behavior of the advertiser.
+
+
+**REFERENCES**
+
+[1] P. H. Kindt and S. Chakraborty, “On optimal neighbor discovery,” in ACM SIGCOMM, 2019, pp. 441–457.
+
+[2] “Proximity beacon,” https://altbeacon.org/, 2022.
+
+[3] T. Li, J. Liang, D. Wang, Y. Ding, K. Zheng, X. Zhang, and K. Xu, “On design and performance of offline finding network,” in IEEE INFOCOM, 2023, pp. 1–10.
+
+[4] “Android wi-fi scan,” https://developer.android.com/guide/topics/connectivity/wifi-scan, 2020.
+
+[5] P. Jaccard, “The distribution of the flora in the alpine zone. 1,” New phytologist, vol. 11, no. 2, pp. 37–50, 1912.
+
+[6] “Android ble scan settings apis,” https://developer.android.com/reference/android/bluetooth/le/ScanSettings.
+
+{{< figure src="/images/project1.png" caption="Fig. 2: Overview of Blender Architecture" >}}
