@@ -115,3 +115,38 @@ $\sqrt{3x-1}+(1+x)^2$ <!--使用单个$表示左对齐，两个$表示居中。-
 
 效果如下：
 {{< breadcrumbs >}}
+
+5.颜色块的使用
+
+如下代码效果为：
+
+```markdown
+hello world
+{{< /color-block >}}
+```
+
+hello world
+{{< /color-block >}}
+
+6.启用表情符号。
+
+该[emojify](https://gohugo.io/functions/emojify/)函数可以直接在模板或[内联短代码](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes)中调用。
+
+要全局启用表情符号，请在您的站点配置enableEmoji中设置为true，然后您可以直接在configuration文件中键入表情符号速记代码；
+例如
+
+```markdown
+:exclamation:
+```
+
+代表了:exclamation:
+
+[表情符号备忘单](http://www.emoji-cheat-sheet.com/)是表情符号速记代码的有用参考。
+
+注意:以上步骤在 Hugo 中启用了 Unicode 标准表情符号字符和序列，但是这些字形的呈现取决于浏览器和平台。要设置表情符号的样式，您可以使用第三方表情符号字体或字体堆栈；例如
+
+```markdown
+.emoji {
+  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+}
+```
