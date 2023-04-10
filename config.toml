@@ -35,12 +35,16 @@ enable_collapsible_changelogs = false # default: false
   enable_show_date = true # default: true
   enable_pagination = false # default: false
 
-
+[[menu.navbar]]
+  identifier = "Home"
+  name = "Home"
+  url = "https://litonglab.github.io/"
+  weight = 1
 [[menu.navbar]]
   identifier = "News"
   name = "News"
   url = "/News/"
-  weight = 1
+  weight = 5
 [[menu.navbar]]
   identifier = "People"
   name = "People"
@@ -56,9 +60,5 @@ enable_collapsible_changelogs = false # default: false
   name = "Projects"
   url = "/projects/"
   weight = 4
-[[menu.navbar]]
-  identifier = "About"
-  name = "About"
-  url = "/about/"
-  weight = 5
+
 
