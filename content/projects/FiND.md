@@ -6,17 +6,13 @@ bookcase_cover_src_dark: 'images/project2.png'
 changelogs:
 ---
 
-**Project Title**: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints
-
-**Author(s)**: Bowen Hu，Guangjie Tu   
-
-**Instructor**: 李彤 
+**Project Name**: FiND
 
 [ [Github] ](https://github.com/litonglab/find)
 
-**Introduction**
+**Abstract**
 
-We demonstrate the design of FiND, a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.
+FiND is a novel neighbor discovery protocol that accelerates BLE neighbor discovery via Wi-Fi fingerprints without any hardware modifications. The design rationale of FiND is that the two modes of WiFi and BLE show complementarity in both wireless interference and discovery pattern. When abstracting the neighbor discovery problem, this demonstration provides validation for the approach of reasoning-based presence detection in the real world.
 
 **Reference**
 

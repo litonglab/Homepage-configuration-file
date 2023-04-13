@@ -24,3 +24,6 @@ menu:
 
 Welcome to the **LitongLab** home page!
 
+LitongLab is a research group of [DEKE Lab](http://deke.ruc.edu.cn/) in [Renmin University of China](https://www.ruc.edu.cn/). We worked on computer networking. Our current research interests mainly focuse on applying the state-of-the-art big data and machine learning technologies to improve performance of networked systems.
+
+
