@@ -1,8 +1,8 @@
 ---
 title: 'Blender'
 weight: 2
-bookcase_cover_src: '/images/project1.png'
-bookcase_cover_src_dark: '/images/project1.png'
+bookcase_cover_src: '/images/project_blender.png'
+bookcase_cover_src_dark: '/images/project_blender.png'
 changelogs:
 ---
 
@@ -23,4 +23,4 @@ Blender, a simulation framework that produces a determined and full probabilisti
 - Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang. Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery. ACM International Conference on Mobile, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), pp. 103-110, 2022.
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu. On Design and Performance of Offline Finding Network. IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.
 
-{{< figure src="/images/project1.png" caption="Overview of the Blender Architecture" >}}
+{{< figure src="/images/project_blender.png" caption="Overview of the Blender Architecture" >}}

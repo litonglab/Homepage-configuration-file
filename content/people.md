@@ -58,4 +58,4 @@ twitter_cards: false
 
 #### Photo @ 2023
 
-{{< figure src="/images/合照 2023.png" caption="" >}}
+{{< figure src="/images/group_photo_2023.png" caption="" >}}
