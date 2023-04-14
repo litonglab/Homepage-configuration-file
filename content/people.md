@@ -21,6 +21,8 @@ twitter_cards: false
 
 ### Advisor
 
+{{< figure src="/images/litong.jpg" caption="" >}}
+
 - Dr. [Tong Li](http://iir.ruc.edu.cn/~litong/index.html)
   - Associate Professor at Renmin University of China (Since 2022)
   - PhD from Tsinghua University (2012-2017)
