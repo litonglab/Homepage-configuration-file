@@ -1,6 +1,6 @@
 ---
 title: 'FiND'
-weight: 1
+weight: 3
 bookcase_cover_src: 'images/project_find.png'
 bookcase_cover_src_dark: 'images/project_find.png'
 changelogs:
@@ -16,6 +16,6 @@ FiND is a novel neighbor discovery protocol that accelerates BLE neighbor discov
 
 **Reference**
 
- Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM) (Demo), pp. 1-2, 2023.05.17.
+ - Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu: Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints. IEEE International Conference on Computer Communications (INFOCOM) (Demo), pp. 1-2, 2023.05.17.
 
-{{< figure src="/images/project_find.png" caption="The basic workflow of FiND." >}}
+{{< figure width="80%" src="/images/project_find.png" caption="The basic workflow of FiND." >}}

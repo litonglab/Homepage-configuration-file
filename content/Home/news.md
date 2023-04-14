@@ -22,4 +22,4 @@ gallery_statistic:
 - 2022.07.15 Our paper is accepted by IEEE/ACM Transactions on Networking.
 - 2022.06.22 Our paper is accepted by ACM SIGCOMM 2022 Workshop.
 - 2022.03.07 Two of our papers are accepted by IEEE WoWMoM 2022​.
-- [For more news, please click here ...](/content/news.md)
+- [For more news, please click here ...](/news/)

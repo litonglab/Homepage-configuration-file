@@ -17,24 +17,27 @@ keywords:
 open_graph: false
 twitter_cards: false
 ---
-## Members
 
-### Advisor
+# Header
 
-{{< figure src="/images/litong.jpg" caption="" >}}
+{{< figure width="200" height="" src="/images/litong.jpg" caption="Dr. [Tong Li](http://iir.ruc.edu.cn/~litong/index.html)" >}}
 
-- Dr. [Tong Li](http://iir.ruc.edu.cn/~litong/index.html)
-  - Associate Professor at Renmin University of China (Since 2022)
-  - PhD from Tsinghua University (2012-2017)
-  - Chief Engineer at Huawei (2017-2021)
-  - Email: tong.li [at] ruc.edu.cn
-  - Office: Room 421, Information Building, Renmin University of China, No. 59 Zhongguancun St., Beijing 100872
+{{< color-block style="success" >}}
+Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University
+{{< /color-block >}}
 
-### PhD Students
+{{< color-block style="info" >}}
+Email: tong.li [at] ruc.edu.cn                          
+{{< /color-block >}}
+
+{{< color-block style="warning" >}}                        Office: Room 421, Information Building, No. 59 Zhongguancun Street, Beijing, China. 100872
+{{< /color-block >}}
+
+# PhD Students
 
 - DuLing Xu (PhD student since 2022)
   
-### Master Students
+# Master Students
 
 - Xu Yan (master student since 2023)
 - Wei Liu (master student since 2022)
@@ -43,7 +46,7 @@ twitter_cards: false
 - Shuaipeng Zhu (master student since 2022)
 - Shuoru Yuan (master student since 2022)
 
-### Undergraduate Students
+# Undergraduate Students
 
 - Bowen Hu (undergraduate student since 2021)
 - Zhaoqi Yang (undergraduate student since 2021)
@@ -56,8 +59,6 @@ twitter_cards: false
 - Guanjie Tu (undergraduate student since 2020)
 - Siyuan Cao (undergraduate student since 2020)
   
-### Annual Group Photos
-
-#### Photo @ 2023
+# Annual Group Photo @ 2023
 
 {{< figure src="/images/group_photo_2023.png" caption="" >}}
