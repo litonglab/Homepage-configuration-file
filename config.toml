@@ -1,4 +1,4 @@
-baseURL = 'https://litonglab.github.io'
+baseURL = 'https://www.litonglab.com'
 languageCode = 'en-us'
 title = 'LitongLab'
 theme = "hugo-theme-monochrome"
@@ -38,13 +38,8 @@ enable_collapsible_changelogs = false # default: false
 [[menu.navbar]]
   identifier = "Home"
   name = "Home"
-  url = "https://litonglab.github.io/"
+  url = "/"
   weight = 1
-[[menu.navbar]]
-  identifier = "News"
-  name = "News"
-  url = "/News/"
-  weight = 5
 [[menu.navbar]]
   identifier = "People"
   name = "People"
@@ -60,5 +55,10 @@ enable_collapsible_changelogs = false # default: false
   name = "Projects"
   url = "/projects/"
   weight = 4
+[[menu.navbar]]
+  identifier = "News"
+  name = "News"
+  url = "/News/"
+  weight = 5
 
 

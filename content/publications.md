@@ -11,7 +11,7 @@ IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 20
 
 - Tong Li, Bowen Hu, Guanjie Tu, Jinwen Shuai, Jiaxin Liang, Yukuan Ding, Ziwei Li, Ke Xu:
 Accelerating BLE Neighbor Discovery via Wi-Fi Fingerprints.
-IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [to appear]
+IEEE International Conference on Computer Communications (INFOCOM Demo), pp. 1-2, 2023.05.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Accelerating%20BLE%20Neighbor%20Discovery%20via%20Wi-Fi%20Fingerprints-infocom23-DEMO.pdf)
 
 - Yukuan Ding, Tong Li, Jiaxin Liang, Dan Wang: Blender: Toward Practical Simulation Framework for BLE Neighbor Discovery. ACM International Conference on Mobile, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), pp. 1-8, 2022.10.24. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Blender_%20Toward%20Practical%20Simulation%20Framework%20for%20BLE%20Neighbor%20Discovery.pdf)
 
@@ -41,6 +41,10 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 - Fajiang Yu, Tong Li, Lin Yang, Zhang Huanguo: Hierarchical-CPK-based trusted computing cryptography scheme. Springer International Conference on Autonomic and Trusted Computing (ATC), pp. 149-163, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Hierarchical-CPK-based%20trusted%20computing%20cryptography%20scheme.pdf)
 
 # Journal Papers
+
+- 李彤, 郑凯, 徐恪:
+传输控制中的确认机制研究.
+软件学报, pp. 1-30, 2023.03.29. [to appear]
 
 - Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [[paper]](http://iir.ruc.edu.cn/~litong/papers/AI%20and%20Blockchain%20Empowered%20Metaverse%20for%20Web%203.0_Vision,%20Architecture,%20and%20Future%20Directions.pdf)
 
@@ -78,7 +82,7 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 
 - Jiangtao Ma, Yaqiong Qiao, Guangwu Hu, Tong Li, Yongzhong Huang, Yanjun Wang, Chaoqin Zhang: Social Account Linking via Weighted Bipartite Graph Matching. International Journal of Communication Systems (IJCS), vol.31, no.7, pp. 1-17, 2017. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Social%20account%20linking%20via%20weighted%20bipartite%20graph%20matching.pdf)
 
-- 苏辉，徐恪，沈蒙，王勇，钟宜峰，李彤: 互联网流量补贴模型研究与实例分析. 计算机研究与发展, vol. 53, no. 4, pp. 861-872, 2016. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%BA%92%E8%81%94%E7%BD%91%E6%B5%81%E9%87%8F%E8%A1%A5%
+- 苏辉，徐恪，沈蒙，王勇，钟宜峰，李彤: 互联网流量补贴模型研究与实例分析. 计算机研究与发展, vol. 53, no. 4, pp. 861-872, 2016. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%BA%92%E8%81%94%E7%BD%91%E6%B5%81%E9%87%8F%E8%A1%A5%)
 
 - Ke Xu, Meng Shen, Hongying Liu, Jiangchuan Liu, Fan Li, Tong Li: Achieving Optimal Traffic Engineering Using a Generalized Routing Framework. IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, no. 1, pp. 51-65, 2014. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Achieving%20Optimal%20Traffic%20Engineering%20Using%20a%20Generalized%20Routing%20Framework.pdf)
 
