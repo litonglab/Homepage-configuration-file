@@ -22,16 +22,10 @@ twitter_cards: false
 
 {{< figure width="200" height="" src="/images/litong.jpg" caption="Dr. [Tong Li](http://iir.ruc.edu.cn/~litong/index.html)" >}}
 
-{{< color-block style="success" >}}
+{{< color-block style="error" >}}
 Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University
 {{< /color-block >}}
 
-{{< color-block style="info" >}}
-Email: tong.li [at] ruc.edu.cn                          
-{{< /color-block >}}
-
-{{< color-block style="warning" >}}                        Office: Room 421, Information Building, No. 59 Zhongguancun Street, Beijing, China. 100872
-{{< /color-block >}}
 
 # PhD Students
 

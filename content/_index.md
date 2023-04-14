@@ -24,7 +24,7 @@ menu:
 
 Welcome to the **LitongLab** home page!
 
-{{< color-block style="info" >}}
+{{< color-block style="success" >}}
 LitongLab is a computer networking research group of Renmin University of China (RUC). Our research interests mainly focus on applying the state-of-the-art big data and machine learning technologies to improve the performance of networked systems.                      
 {{< /color-block >}}
 
