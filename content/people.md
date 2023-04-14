@@ -52,6 +52,9 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Haoyue Li (undergraduate student since 2021)
 - Guanjie Tu (undergraduate student since 2020)
 - Siyuan Cao (undergraduate student since 2020)
+- Shuailong Yang (undergraduate student since 2019)
+- Yiming Gao (undergraduate student since 2019)
+- Liang Ma (undergraduate student since 2019)
   
 # Annual Group Photo @ 2023
 
