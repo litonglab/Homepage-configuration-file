@@ -5,6 +5,10 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
+
+- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
+
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu:
 On Design and Performance of Offline Finding Network.
 IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/On%20Design%20and%20Performance%20of%20Offline%20Finding%20Network.pdf)
@@ -93,6 +97,7 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 
 # Granted Patents
 
+- Tong Li, Kai Zheng, Shengjun Chen, Junsen Chen, Fanzhao Wang. "System, method, and apparatus for evaluating round-trip time." US Patent, 授权号：US11611498B2, 授权日：2023.03.21. 申请号：US17199773, 申请日：2020.07.13.
 - 李彤，郑凯，陈胜军，陈君森，王凡钊. "一种评估往返时延的系统、方法及装置." 中国专利, 授权号：CN112217686B，授权日：2022.10.08, 申请号：201910631286.6, 申请日：2019.7.12.
 - 康娇，王凡钊，王浩，李彤，余礼钹，郑凯. "连接建立方法及相关设备." 中国专利, 授权号：CN111372323B，授权日：2022.10.18, 申请号：201811595825.7, 申请日：2018.12.25.
 - 李彤, 郑凯，陈胜军，陈君森，康娇. "一种确认报文的处理方法和通信装置以及存储介质." 中国专利, 授权号：CN112737737B，授权日：2022.10.11, 申请号：201911033773.9, 申请日：2019.10.28.
@@ -108,6 +113,9 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 
 # Applied Patents
 
+- 吴波, 罗成, 李彤. "数据的传输控制方法、装置、 电子设备和存储介质." 中国专利. 申请号: 202211542888. 2. 申请日: 2022.12.02
+- 吴波, 罗成, 李彤. "数据包的传输方法、装置、 设备及存储介质." 中国专利. 申请号: 202211697316. 1. 申请日: 2022.12.28
+- 李彤，李卫，朱银峰，马心宇. "一种视频流的传输方法、装置、电子设备及存储介质." 中国专利. 申请号：202310458996X​. 申请日：2023.04.25.
 - 李彤，徐恪，杜鑫乐，黄翰林，戴惠辰，郑凯. "一种数据处理方法以及相关设备." 中国专利. 申请号：202111415441.4​. 申请日：2021.11.25.
 - 秦鹏，邹韬，李彤，阎露. "接触追踪方法及相关设备." 中国专利. 申请号：202110487648.6. 申请日：2021.04.30.
 - 李彤，阎露，李杰. "一种用于数据查询的方法和装置." 中国专利. 申请号：202110473082.1. 申请日：2021.04.29.
@@ -117,7 +125,6 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 - 张梦龙，李杰，李彤. "数据包发送的方法、装置." 中国专利, 申请号：202010604021.X, 申请日：2020.6.29.
 - Tong Li，Kai Zheng, Shengjun Chen, Junsen Chen, Jiao Kang. "Acknowledgement message processing method, communication appartus, and storage medium." Patent Cooperation Treaty, PCT/CN2020/124291, 2020.10.28.
 - Tong Li, Kai Zheng, Shengjun Chen, Junsen Chen, Fanzhao Wang. "System, method, and apparatus for evaluating round-trip time." European Patent，申请号：EP20839648.1, PCT：PCT/CN2020/101547, 申请日：2020.07.13.
-- Tong Li, Kai Zheng, Shengjun Chen, Junsen Chen, Fanzhao Wang. "System, method, and apparatus for evaluating round-trip time." US Patent, 申请号：US17199773, PCT：PCT/CN2020/101547, 申请日：2020.07.13.
 - Tong Li, Kai Zheng, Dang Su, Xinping Chen. "Data transmission method and apparatus." European Patent，申请号：EP20779102.1, PCT：PCT/CN2020/072862, 申请日：2020.01.17.
 - Tong Li, Kai Zheng, Dang Su, Xinping Chen. "Data transmission method and apparatus." US Patent, 申请号：US17484164, PCT：PCT/CN2020/072862, 申请日：2020.01.17.
 - Jiao Kang, Fanzhao Wang, Hao Wang, Tong Li, Libo Yu, Kai Zheng. "Connection establishment method and related device." European Patent，申请号：EP19902151.0, PCT：PCT/CN2019/128100, 申请日：2019.12.24.
