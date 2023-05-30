@@ -5,10 +5,6 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
-
-- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
-
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu:
 On Design and Performance of Offline Finding Network.
 IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/On%20Design%20and%20Performance%20of%20Offline%20Finding%20Network.pdf)
@@ -49,6 +45,10 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 - 李彤, 郑凯, 徐恪:
 传输控制中的确认机制研究.
 软件学报, pp. 1-30, 2023.03.29. [to appear]
+
+- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
+
+- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
 
 - Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [[paper]](http://iir.ruc.edu.cn/~litong/papers/AI%20and%20Blockchain%20Empowered%20Metaverse%20for%20Web%203.0_Vision,%20Architecture,%20and%20Future%20Directions.pdf)
 
