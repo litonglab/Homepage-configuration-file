@@ -18,6 +18,7 @@ gallery_statistic:
 - 2023.03.29  Our paper is accepted by 软件学报.
 - 2023.02.11  Our paper is accepted by IEEE INFOCOM Demo 2023.
 - 2023.02.06  Our paper is accepted by IEEE Communications Magazine.
+
 - 2022.12.06  实验室成员获得2022 年“中国高校计算机大赛—智能交互创新赛”全国总决赛三等奖。
   成员：蒋岱均（大二）、曹思源 （大三）、杨兆棋（大二）、刘威（研一）
 - 2022.12.02 Our paper is accepted by IEEE INFOCOM 2023.
