@@ -18,6 +18,7 @@ twitter_cards: false
 ---
 # News
 
+- 2023.08.10：实验室成员获得第九届中国国际“互联网 + ”大学生创新创业大赛北京赛区复赛产业命题赛道三等奖。
 - 2023.07.30：Our paper is accepted by ICNP 2023.
 - 2023.07.07：Our two papers are accepted by SIGCOMM'23 Poster and Demos.
 - 2023.06.26  实验室成员获得2023年“中国高校计算机大赛—网络技术挑战赛（A-ST）”三等奖。
