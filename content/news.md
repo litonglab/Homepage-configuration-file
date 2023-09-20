@@ -18,7 +18,7 @@ twitter_cards: false
 ---
 # News
 
-- 2023.10.25  Our paper is accepted by IEEE WISE
+- 2023.10.25  Our paper is accepted by IEEE WISE.
 - 2023.09.07  Our paper is accepted by 中国网络大会.
 - 2023.08.01  实验室成员获得第九届中国国际“互联网 + ”大学生创新创业大赛北京赛区复赛产业命题赛道三等奖。
 - 2023.07.03  Our paper is accepted by ICNP 2023.
