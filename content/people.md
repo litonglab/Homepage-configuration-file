@@ -33,12 +33,15 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
   
 # Master Students
 
+- Zegang Sun(master student since 2023)
 - Xu Yan (master student since 2023)
+- Yang Zi(master student since 2023)
 - Wei Liu (master student since 2022)
 - Shangwen Jiang (master student since 2022)
 - Xinyu Ma (master student since 2022)
 - Shuaipeng Zhu (master student since 2022)
 - Shuoru Yuan (master student since 2022)
+
 
 # Undergraduate Students
 

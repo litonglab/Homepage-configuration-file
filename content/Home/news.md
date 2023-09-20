@@ -12,9 +12,11 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-- 2023.08.10：实验室成员获得第九届中国国际“互联网 + ”大学生创新创业大赛北京赛区复赛产业命题赛道三等奖。
-- 2023.07.30：Our paper is accepted by ICNP 2023.
-- 2023.07.07：Our two papers are accepted by SIGCOMM'23 Poster and Demos.
+- 2023.10.25  Our paper is accepted by IEEE WISE
+- 2023.09.07  Our paper is accepted by 中国网络大会.
+- 2023.08.10  实验室成员获得第九届中国国际“互联网 + ”大学生创新创业大赛北京赛区复赛产业命题赛道三等奖。
+- 2023.07.30  Our paper is accepted by ICNP 2023.
+- 2023.07.07  Our two papers are accepted by SIGCOMM'23 Poster and Demos.
 - 2023.06.26  实验室成员获得2023年“中国高校计算机大赛—网络技术挑战赛（A-ST）”三等奖。
   成员：杨兆棋（大二）、曹景堃（大二）、杨艺琳（大二）、胡博文（大二）
 - 2023.03.29  Our paper is accepted by 软件学报.
