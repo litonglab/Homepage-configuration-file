@@ -5,6 +5,8 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[[paper]](https://icnp23.cs.ucr.edu/assets/papers/icnp23-final36.pdf)
+
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu:
 On Design and Performance of Offline Finding Network.
 IEEE International Conference on Computer Communications (INFOCOM), pp. 1-10, 2023.05.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/On%20Design%20and%20Performance%20of%20Offline%20Finding%20Network.pdf)

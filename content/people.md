@@ -33,6 +33,7 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
   
 # Master Students
 
+- Jiuxiang Zhu((master student since 2024))
 - Zegang Sun(master student since 2023)
 - Xu Yan (master student since 2023)
 - Wei Liu (master student since 2022)
@@ -52,15 +53,21 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Xiongwen Guo (undergraduate student since 2021)
 - Zhongqi Tang (undergraduate student since 2021)
 - Haoyue Li (undergraduate student since 2021)
+- Jinxiang Zhao (undergraduate student since 2021)
+- Haohan Liao(undergraduate student since 2021)
 - Guanjie Tu (undergraduate student since 2020)
 - Siyuan Cao (undergraduate student since 2020)
 - Yijin Zhu (undergraduate student since 2020)
+- Yu Sun (undergraduate student since 2020)
 - Shuailong Yang (undergraduate student since 2019)
 - Yiming Gao (undergraduate student since 2019)
 - Liang Ma (undergraduate student since 2019)
 - Peiyu Zhao (undergraduate student since 2022)
 - Yaoping Luo (undergraduate student since 2022)
+- Jingjing Li (undergraduate student since 2022)
 - Jiahe Zhang (undergraduate student since 2022)
+- Zimeng Wang (undergraduate student since 2022)
+- Zijia wang (undergraduate student since 2022)
   
 # Annual Group Photo @ 2023
 

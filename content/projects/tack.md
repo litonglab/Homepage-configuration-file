@@ -10,7 +10,7 @@ changelogs:
 
 [ [Github] ](https://github.com/superlitong/fillp-demo)
 
-[ [Slide] ](https://github.com/litonglab/quic-art/blob/main/slides/ART.pptx)
+[ [Video and Slides] ](https://github.com/superlitong/tack-paper-slides-video)
 
 **Abstract**
 
