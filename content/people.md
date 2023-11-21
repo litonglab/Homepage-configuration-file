@@ -67,7 +67,7 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Jingjing Li (undergraduate student since 2022)
 - Jiahe Zhang (undergraduate student since 2022)
 - Zimeng Wang (undergraduate student since 2022)
-- Zijia wang (undergraduate student since 2022)
+- Zijia Wang (undergraduate student since 2022)
   
 # Annual Group Photo @ 2023
 
