@@ -61,6 +61,7 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Liang Ma (undergraduate student since 2019)
 - Peiyu Zhao (undergraduate student since 2022)
 - Yaoping Luo (undergraduate student since 2022)
+- Jiahe Zhang (undergraduate student since 2022)
   
 # Annual Group Photo @ 2023
 
