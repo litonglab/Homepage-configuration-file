@@ -33,8 +33,8 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
   
 # Master Students
 
-- Jiuxiang Zhu((master student since 2024))
-- Zegang Sun(master student since 2023)
+- Jiuxiang Zhu (master student since 2024)
+- Zegang Sun (master student since 2023)
 - Xu Yan (master student since 2023)
 - Wei Liu (master student since 2022)
 - Shangwen Jiang (master student since 2022)
@@ -45,6 +45,12 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 
 # Undergraduate Students
 
+- Jiahe Zhang (undergraduate student since 2022)
+- Zimeng Wang (undergraduate student since 2022)
+- Zijia Wang (undergraduate student since 2022)
+- Peiyu Zhao (undergraduate student since 2022)
+- Yaoping Luo (undergraduate student since 2022)
+- Jingjing Li (undergraduate student since 2022)
 - Bowen Hu (undergraduate student since 2021)
 - Zhaoqi Yang (undergraduate student since 2021)
 - Jingkun Cao (undergraduate student since 2021)
@@ -54,7 +60,7 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Zhongqi Tang (undergraduate student since 2021)
 - Haoyue Li (undergraduate student since 2021)
 - Jinxiang Zhao (undergraduate student since 2021)
-- Haohan Liao(undergraduate student since 2021)
+- Haohan Liao (undergraduate student since 2021)
 - Guanjie Tu (undergraduate student since 2020)
 - Siyuan Cao (undergraduate student since 2020)
 - Yijin Zhu (undergraduate student since 2020)
@@ -62,13 +68,14 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Shuailong Yang (undergraduate student since 2019)
 - Yiming Gao (undergraduate student since 2019)
 - Liang Ma (undergraduate student since 2019)
-- Peiyu Zhao (undergraduate student since 2022)
-- Yaoping Luo (undergraduate student since 2022)
-- Jingjing Li (undergraduate student since 2022)
-- Jiahe Zhang (undergraduate student since 2022)
-- Zimeng Wang (undergraduate student since 2022)
-- Zijia Wang (undergraduate student since 2022)
-  
+
+# Alumni
+
+- Shuailong Yang (undergraduate student since 2019)
+- Yiming Gao (undergraduate student since 2019)
+- Liang Ma (undergraduate student since 2019)
+
 # Annual Group Photo @ 2023
 
+{{< figure src="/images/group_photo_2023_2.jpg" caption="" >}}
 {{< figure src="/images/group_photo_2023.png" caption="" >}}
