@@ -65,9 +65,7 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Siyuan Cao (undergraduate student since 2020)
 - Yijin Zhu (undergraduate student since 2020)
 - Yu Sun (undergraduate student since 2020)
-- Shuailong Yang (undergraduate student since 2019)
-- Yiming Gao (undergraduate student since 2019)
-- Liang Ma (undergraduate student since 2019)
+
 
 # Alumni
 

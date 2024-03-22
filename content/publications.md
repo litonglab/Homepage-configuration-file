@@ -44,17 +44,7 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 
 # Journal Papers
 
-- 李彤, 郑凯, 徐恪:
-传输控制中的确认机制研究.
-软件学报, pp. 1-30, 2023.03.29. [to appear]
-
-- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
-
-- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
-
 - Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [[paper]](http://iir.ruc.edu.cn/~litong/papers/AI%20and%20Blockchain%20Empowered%20Metaverse%20for%20Web%203.0_Vision,%20Architecture,%20and%20Future%20Directions.pdf)
-
-- 柴云鹏, 李彤, 范举, 卢卫, 张峰, 杜小勇: 跨域数据管理的内涵与挑战. 中国计算机学会通讯 (CCCF), vol.18, no.11, pp. 29-33, 2022.11.16. [[paper]](http://iir.ruc.edu.cn/~litong/papers/cccf.pdf)
 
 - Xinle Du, Ke Xu, Lei Xu, Kai Zheng, Meng Shen, Bo Wu, Tong Li: R-AQM: Reverse ACK Active Queue Management in Multi-tenant Data Centers. IEEE/ACM Transactions on Networking (TON), pp. 1-16, 2022.08.23. [[paper]](http://iir.ruc.edu.cn/~litong/papers/R-AQM_Reverse_ACK_Active_Queue_Management_in_Multitenant_Data_Centers-TON2022.pdf)
 
@@ -63,8 +53,6 @@ Revisiting Acknowledgment Mechanism for Transport Control: Modeling, Analysis, a
 IEEE/ACM Transactions on Networking (TON), vol.29, no.6, pp. 2678-2692, 2021.08.10. [[paper]](http://iir.ruc.edu.cn/~litong/papers/with%20appendix_Revisiting%20Acknowledgment%20Mechanism%20for%20Transport%20Control_Modeling,%20Analysis,%20and%20Implementation.pdf)
 
 - Tong Li, Kai Zheng, Ke Xu: Acknowledgment On Demand for Transport Control. IEEE Internet Computing, vol.25, no.2, pp. 109-115, 2021.05.04. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Acknowledgment_on_Demand_for_Transport_Control.pdf)
-
-- 杜鑫乐，徐恪，李彤，郑凯，付松涛，沈蒙: 数据中心网络的流量控制：研究现状与趋势. 计算机学报, vol.43, no.17, pp. 1-23, 2020. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%BD%91%E7%BB%9C%E7%9A%84%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%EF%BC%9A%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E8%B6%8B%E5%8A%BF.pdf)
 
 - Lei Xu, Ke Xu, Tong Li, Kai Zheng, Meng Shen, Xiaojiang Du, Xinle Du: ABQ: Active Buffer Queueing in Datacenters. IEEE Network Magazine, vol.34, no.2, pp. 232-237, 2020. [[paper]](http://iir.ruc.edu.cn/~litong/papers/ABQ_Active%20Buffer%20Queueing%20in%20Datacenters.pdf)
 
@@ -80,15 +68,12 @@ CCF Transactions on Networking (CTON), pp. 43-52, 2019. [[paper]](http://iir.ruc
 Modeling, Analysis, and Implementation of Universal Acceleration Platform Across Online Video Sharing Sites.
 IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.07.01. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Modeling,%20Analysis,%20and%20Implementation%20of%20Universal%20Acceleration%20Platform%20Across%20Online%20Video%20Sharing%20Sites.pdf)
 
-- 葛志诚，徐恪，陈靓，李彤，姚龙，沈蒙: 一种移动内容分发网络的分层协同缓存机制. 计算机学报, vol.41, no.12, pp. 2769-2786, 2018. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%B8%80%E7%A7%8D%E7%A7%BB%E5%8A%A8%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C%E7%9A%84%E5%88%86%E5%B1%82%E5%8D%8F%E5%90%8C%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.pdf)
-
 - Haiyang Wang, Tong Li, Ryan Shea, Xiaoqiang Ma, Feng Wang, Jiangchuan Liu, Ke Xu: Towards Cloud-Based Distributed Interactive Applications: Measurement, Modeling, and Analysis. IEEE/ACM Transactions on Networking (TON), vol.26, no.1, pp. 3-16, 2017. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Towards%20Cloud-Based%20Distributed%20Interactive%20Applications_Measurement,%20Modeling,%20and%20Analysis.pdf)
 
 - Yuchao Zhang, Ke Xu, Haiyang Wang, Qi Li, Tong Li, Xuan Cao: Going Fast and Fair: Latency Optimization for Cloud-Based Service Chains. IEEE Network Magazine, pp. 138-143, 2017. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Going%20Fast%20and%20Fair_Latency%20Optimization%20for%20Cloud-Based%20Service%20Chains.pdf)
 
 - Jiangtao Ma, Yaqiong Qiao, Guangwu Hu, Tong Li, Yongzhong Huang, Yanjun Wang, Chaoqin Zhang: Social Account Linking via Weighted Bipartite Graph Matching. International Journal of Communication Systems (IJCS), vol.31, no.7, pp. 1-17, 2017. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Social%20account%20linking%20via%20weighted%20bipartite%20graph%20matching.pdf)
 
-- 苏辉，徐恪，沈蒙，王勇，钟宜峰，李彤: 互联网流量补贴模型研究与实例分析. 计算机研究与发展, vol. 53, no. 4, pp. 861-872, 2016. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%BA%92%E8%81%94%E7%BD%91%E6%B5%81%E9%87%8F%E8%A1%A5%)
 
 - Ke Xu, Meng Shen, Hongying Liu, Jiangchuan Liu, Fan Li, Tong Li: Achieving Optimal Traffic Engineering Using a Generalized Routing Framework. IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, no. 1, pp. 51-65, 2014. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Achieving%20Optimal%20Traffic%20Engineering%20Using%20a%20Generalized%20Routing%20Framework.pdf)
 
@@ -96,6 +81,21 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 
 - Tong Li, Fajiang Yu, Yang Lin Y, Xueyuan Kong, Yue Yu: Trusted computing dynamic attestation using a static analysis based behavior model. Journal of Convergence, vol. 2, no. 1, pp. 61-68, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Trusted%20computing%20dynamic%20attestation%20using%20a%20static%20analysis%20based%20behaviour%20model.pdf)
 
+# 中文论文
+
+- 李彤, 郑凯, 徐恪:传输控制中的确认机制研究.软件学报, pp. 1-30, 2023.03.29. [to appear]
+
+- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
+
+- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
+
+- 柴云鹏, 李彤, 范举, 卢卫, 张峰, 杜小勇: 跨域数据管理的内涵与挑战. 中国计算机学会通讯 (CCCF), vol.18, no.11, pp. 29-33, 2022.11.16. [[paper]](http://iir.ruc.edu.cn/~litong/papers/cccf.pdf)
+
+- 杜鑫乐，徐恪，李彤，郑凯，付松涛，沈蒙: 数据中心网络的流量控制：研究现状与趋势. 计算机学报, vol.43, no.17, pp. 1-23, 2020. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%BD%91%E7%BB%9C%E7%9A%84%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%EF%BC%9A%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E8%B6%8B%E5%8A%BF.pdf)
+
+- 葛志诚，徐恪，陈靓，李彤，姚龙，沈蒙: 一种移动内容分发网络的分层协同缓存机制. 计算机学报, vol.41, no.12, pp. 2769-2786, 2018. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%B8%80%E7%A7%8D%E7%A7%BB%E5%8A%A8%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C%E7%9A%84%E5%88%86%E5%B1%82%E5%8D%8F%E5%90%8C%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.pdf)
+
+- 苏辉，徐恪，沈蒙，王勇，钟宜峰，李彤: 互联网流量补贴模型研究与实例分析. 计算机研究与发展, vol. 53, no. 4, pp. 861-872, 2016. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E4%BA%92%E8%81%94%E7%BD%91%E6%B5%81%E9%87%8F%E8%A1%A5%)
 
 # Granted Patents
 
