@@ -77,3 +77,6 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 
 {{< figure src="/images/group_photo_2023_2.jpg" caption="" >}}
 {{< figure src="/images/group_photo_2023.png" caption="" >}}
+
+# Annual Group Photo @ 2024
+{{< figure src="/images/group_photo_2024.jpg" caption="" >}}

@@ -5,6 +5,22 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- Shuaipeng Zhu, Tong Li*, Xinyu Ma, Yinfeng Zhu, Taotao Zhang, Senzhen Liu, Haiyang Wang, Ke Xu:PolyCC: Poly-Algorithmic Congestion Control.ACM SIGCOMM, pp. 1129-1131, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/Polycc_Poly-Algorithmic%20Congestion%20Control-sigcomm2023posters.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/PolyCC-Poster.pdf)]
+
+- Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns.ACM SIGCOMM, pp. 1147-1149, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/TOO_%20Accelerating%20Loss%20Recovery%20by%20Taming%20On-Off%20Traffic%20Patterns.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/Too-Poster.pptx)]
+
+- Bo Wu, Tong Li*, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu:
+Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.
+IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2023.07.23. [to appear]
+
+- Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li*:
+Performant TCP over Wi-Fi Direct.
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2023.06.19. [to appear]
+
+- Ziwei Li, Zhaoqi Yang, Bowen Hu, Tong Li*, Bo Wu, Yukuan Ding, Dulin Xu, and Ke Xu:
+ReND: Toward Reasoning-based BLE Neighbor Discovery by Integrating with Wi-Fi Fingerprints.
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-4, 2023.06.19. [to appear]
+
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[[paper]](https://icnp23.cs.ucr.edu/assets/papers/icnp23-final36.pdf)
 
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu:
@@ -82,6 +98,12 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 - Tong Li, Fajiang Yu, Yang Lin Y, Xueyuan Kong, Yue Yu: Trusted computing dynamic attestation using a static analysis based behavior model. Journal of Convergence, vol. 2, no. 1, pp. 61-68, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Trusted%20computing%20dynamic%20attestation%20using%20a%20static%20analysis%20based%20behaviour%20model.pdf)
 
 # 中文论文
+
+- 黄翰林, 徐 恪, 李 琦, 李彤, 付松涛, 高翔宇:可扩展的网络验证技术: 研究现状与发展趋势.
+
+- 马心宇, 李彤*, 曹景堃, 吴波, 孙永谦, 赵乙:基于QoS-QoE预测的传输瓶颈定位.计算机工程与科学, pp. 1-7, 2024.01.02. [to appear]
+
+- 杜小勇, 李彤, 卢卫, 范举, 张峰, 柴云鹏:跨域数据管理.计算机科学, vol. 51, no. 1, pp. 4-12, 2024.01.30. [[paper]（http://iir.ruc.edu.cn/~litong/papers/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81%E6%8A%80%E6%9C%AF.pdf）]
 
 - 李彤, 郑凯, 徐恪:传输控制中的确认机制研究.软件学报, pp. 1-30, 2023.03.29. [to appear]
 

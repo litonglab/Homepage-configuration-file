@@ -6,7 +6,7 @@ bookcase_cover_src_dark: '/images/Key_modules_of_ART.png'
 changelogs:
 ---
 
-**Project Name**: Art
+**Project Name**: ART
 
 [ [Github] ](https://github.com/litonglab/quic-art)
 
