@@ -1,8 +1,8 @@
 ---
-title: 'Art'
+title: 'ART'
 weight: 2
-bookcase_cover_src: '/images/Key_modules_of_ART.png'
-bookcase_cover_src_dark: '/images/Key_modules_of_ART.png'
+bookcase_cover_src: '/images/project_art.png'
+bookcase_cover_src_dark: '/images/project_art.png'
 changelogs:
 ---
 
