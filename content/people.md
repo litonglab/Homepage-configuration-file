@@ -20,10 +20,10 @@ twitter_cards: false
 
 # Header
 
-{{< figure width="200" height="" src="/images/litong.jpg" caption="Dr. [Tong Li](http://iir.ruc.edu.cn/~litong/index.html)" >}}
+{{< figure width="240" height="" aligh="left" src="/images/litong.png" link="http://iir.ruc.edu.cn/~litong">}}
 
-{{< color-block style="error" >}}
-Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University
+{{< color-block style="info" >}}
+Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei, PhD @ Tsinghua University. Homepage: http://iir.ruc.edu.cn/~litong
 {{< /color-block >}}
 
 
@@ -33,18 +33,22 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
   
 # Master Students
 
+- Baoli Liu (master student since 2024)
 - Jiuxiang Zhu (master student since 2024)
 - Zegang Sun (master student since 2023)
 - Xu Yan (master student since 2023)
 - Wei Liu (master student since 2022)
 - Shangwen Jiang (master student since 2022)
-- Xinyu Ma (master student since 2022)
-- Shuaipeng Zhu (master student since 2022)
 - Shuoru Yuan (master student since 2022)
 
+# Alumni
+- Shuaipeng Zhu (2022-2024, Master Degree)
+- Xinyu Ma (2022-2024, Master Degree)
 
 # Undergraduate Students
 
+- Xiaoyao Feng (undergraduate student since 2022)
+- Jingyue Zhou (undergraduate student since 2022)
 - Jiahe Zhang (undergraduate student since 2022)
 - Zimeng Wang (undergraduate student since 2022)
 - Zijia Wang (undergraduate student since 2022)
@@ -59,24 +63,18 @@ Associate Professor @ Renmin University of China, Prior Chief Engineer @ Huawei,
 - Xiongwen Guo (undergraduate student since 2021)
 - Zhongqi Tang (undergraduate student since 2021)
 - Haoyue Li (undergraduate student since 2021)
-- Jinxiang Zhao (undergraduate student since 2021)
 - Haohan Liao (undergraduate student since 2021)
 - Guanjie Tu (undergraduate student since 2020)
 - Siyuan Cao (undergraduate student since 2020)
 - Yijin Zhu (undergraduate student since 2020)
-- Yu Sun (undergraduate student since 2020)
 
 
-# Alumni
-
-- Shuailong Yang (undergraduate student since 2019)
-- Yiming Gao (undergraduate student since 2019)
-- Liang Ma (undergraduate student since 2019)
+# Annual Group Photo @ 2024
+{{< figure src="/images/group_photo_2024.jpg" caption="" >}}
 
 # Annual Group Photo @ 2023
 
 {{< figure src="/images/group_photo_2023_2.jpg" caption="" >}}
 {{< figure src="/images/group_photo_2023.png" caption="" >}}
 
-# Annual Group Photo @ 2024
-{{< figure src="/images/group_photo_2024.jpg" caption="" >}}
+

@@ -5,23 +5,23 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- Shuaipeng Zhu, Tong Li*, Xinyu Ma, Yinfeng Zhu, Taotao Zhang, Senzhen Liu, Haiyang Wang, Ke Xu:PolyCC: Poly-Algorithmic Congestion Control.ACM SIGCOMM, pp. 1129-1131, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/Polycc_Poly-Algorithmic%20Congestion%20Control-sigcomm2023posters.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/PolyCC-Poster.pdf)]
-
-- Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns.ACM SIGCOMM, pp. 1147-1149, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/TOO_%20Accelerating%20Loss%20Recovery%20by%20Taming%20On-Off%20Traffic%20Patterns.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/Too-Poster.pptx)]
-
-- Bo Wu, Tong Li*, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu:
+- Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu:
 Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.
-IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2023.07.23. [to appear]
+IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23. [to appear]
 
-- Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li*:
+- Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li:
 Performant TCP over Wi-Fi Direct.
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2023.06.19. [to appear]
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2024.06.19. [to appear]
 
-- Ziwei Li, Zhaoqi Yang, Bowen Hu, Tong Li*, Bo Wu, Yukuan Ding, Dulin Xu, and Ke Xu:
+- Ziwei Li, Zhaoqi Yang, Bowen Hu, Tong Li, Bo Wu, Yukuan Ding, Dulin Xu, and Ke Xu:
 ReND: Toward Reasoning-based BLE Neighbor Discovery by Integrating with Wi-Fi Fingerprints.
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-4, 2023.06.19. [to appear]
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-4, 2024.06.19. [to appear]
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[[paper]](https://icnp23.cs.ucr.edu/assets/papers/icnp23-final36.pdf)
+
+- Shuaipeng Zhu, Tong Li, Xinyu Ma, Yinfeng Zhu, Taotao Zhang, Senzhen Liu, Haiyang Wang, Ke Xu:PolyCC: Poly-Algorithmic Congestion Control. ACM SIGCOMM, pp. 1129-1131, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/Polycc_Poly-Algorithmic%20Congestion%20Control-sigcomm2023posters.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/PolyCC-Poster.pdf)]
+
+- Xu Yan, Tong Li, Bo Wu, Cheng Luo, Fuyu Wang, Haiyang Wang, Ke Xu: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns. ACM SIGCOMM, pp. 1147-1149, 2023.09.10. [[paper](http://iir.ruc.edu.cn/~litong/papers/TOO_%20Accelerating%20Loss%20Recovery%20by%20Taming%20On-Off%20Traffic%20Patterns.pdf)][[poster](http://iir.ruc.edu.cn/~litong/slides/Too-Poster.pptx)]
 
 - Tong Li, Jiaxin Liang, Yukuan Ding, Kai Zheng, Xu Zhang, Ke Xu:
 On Design and Performance of Offline Finding Network.
@@ -99,17 +99,17 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 
 # 中文论文
 
-- 黄翰林, 徐 恪, 李 琦, 李彤, 付松涛, 高翔宇:可扩展的网络验证技术: 研究现状与发展趋势.
+- 黄翰林, 徐 恪, 李 琦, 李彤, 付松涛, 高翔宇:可扩展的网络验证技术: 研究现状与发展趋势. 电子学报, pp. 1-22, 2024.03.16. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81%E6%8A%80%E6%9C%AF.pdf)
 
-- 马心宇, 李彤*, 曹景堃, 吴波, 孙永谦, 赵乙:基于QoS-QoE预测的传输瓶颈定位.计算机工程与科学, pp. 1-7, 2024.01.02. [to appear]
+- 马心宇, 李彤, 曹景堃, 吴波, 孙永谦, 赵乙:基于QoS-QoE预测的传输瓶颈定位.计算机工程与科学, pp. 1-7, 2024.01.02. [to appear]
 
-- 杜小勇, 李彤, 卢卫, 范举, 张峰, 柴云鹏:跨域数据管理.计算机科学, vol. 51, no. 1, pp. 4-12, 2024.01.30. [[paper]（http://iir.ruc.edu.cn/~litong/papers/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81%E6%8A%80%E6%9C%AF.pdf）]
+- 杜小勇, 李彤, 卢卫, 范举, 张峰, 柴云鹏:跨域数据管理.计算机科学, vol. 51, no. 1, pp. 4-12, 2024.01.30. [[paper]]（http://iir.ruc.edu.cn/~litong/papers/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81%E6%8A%80%E6%9C%AF.pdf）
 
-- 李彤, 郑凯, 徐恪:传输控制中的确认机制研究.软件学报, pp. 1-30, 2023.03.29. [to appear]
+- 李彤, 郑凯, 徐恪:传输控制中的确认机制研究.软件学报, pp. 1-30, 2023.03.29. [[paper]]](http://iir.ruc.edu.cn/~litong/papers/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E4%B8%AD%E7%9A%84%E7%A1%AE%E8%AE%A4%E6%9C%BA%E5%88%B6.pdf)
 
-- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [to appear]
+- 李伟明, 李彤, 张大方, 戴隆超, 柴云鹏:跨空间域数据管理分布式共识算法：现状，挑战和展望.大数据, pp. 1-19, 2023.04.12. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E8%B7%A8%E7%A9%BA%E9%97%B4%E5%9F%9F%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%88%86%E5%B8%83%E5%BC%8F%E5%85%B1%E8%AF%86%E7%AE%97%E6%B3%95.pdf)
 
-- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [to appear]
+- 庄琪钰, 李彤, 卢卫, 杜小勇:Harp：面向跨空间域的分布式事务优化算法.大数据, pp. 1-23, 2023.05.05. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E9%9D%A2%E5%90%91%E8%B7%A8%E7%A9%BA%E9%97%B4%E5%9F%9F%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95.pdf)
 
 - 柴云鹏, 李彤, 范举, 卢卫, 张峰, 杜小勇: 跨域数据管理的内涵与挑战. 中国计算机学会通讯 (CCCF), vol.18, no.11, pp. 29-33, 2022.11.16. [[paper]](http://iir.ruc.edu.cn/~litong/papers/cccf.pdf)
 
@@ -122,34 +122,16 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 # Granted Patents
 
 - Tong Li, Kai Zheng, Shengjun Chen, Junsen Chen, Fanzhao Wang. "System, method, and apparatus for evaluating round-trip time." US Patent, 授权号：US11611498B2, 授权日：2023.03.21. 申请号：US17199773, 申请日：2020.07.13.
+- Tong Li, Ke Xu, Jing Zuo, Fanzhao Wang, Kai Zheng. "Link detection method and related apparatus." US Patent, 授权号：US11088954B2，授权日：2021.08.10，申请号：US 16858920, 申请日：2020.04.27.
+- Ke Xu, Tong Li, Xin Liu, Meng Shen. "Resource allocation method under heterogeneous network under intermediate processing constraints." US Patent, 授权号：US10412023B2, 授权日：2019.09.10. 申请号：US15771946，申请日：2016.11.07.
 - 李彤，郑凯，陈胜军，陈君森，王凡钊. "一种评估往返时延的系统、方法及装置." 中国专利, 授权号：CN112217686B，授权日：2022.10.08, 申请号：201910631286.6, 申请日：2019.7.12.
 - 康娇，王凡钊，王浩，李彤，余礼钹，郑凯. "连接建立方法及相关设备." 中国专利, 授权号：CN111372323B，授权日：2022.10.18, 申请号：201811595825.7, 申请日：2018.12.25.
 - 李彤, 郑凯，陈胜军，陈君森，康娇. "一种确认报文的处理方法和通信装置以及存储介质." 中国专利, 授权号：CN112737737B，授权日：2022.10.11, 申请号：201911033773.9, 申请日：2019.10.28.
 - 李彤, 郑凯，粟荡，陈鑫平. "一种数据传输方法与装置." 中国专利, 授权号：CN111740808B，授权日：2022.7.22，申请号：201910229219.1, 申请日：2019.3.25.
-- Tong Li, Ke Xu, Jing Zuo, Fanzhao Wang, Kai Zheng. "Link detection method and related apparatus." US Patent, 授权号：US11088954B2，授权日：2021.08.10，申请号：US 16858920, 申请日：2020.04.27.
 - 李彤, 徐恪，左晶，王凡钊，郑凯. "链路检测方法及相关装置." 中国专利, 授权号: CN110557297B, 授权日: 2021.06.08, 申请号：201810565684.8,申请日: 2018.06.04.
+- 张梦龙，李杰，李彤. "数据包发送的方法、装置." 中国专利, 授权号: CN113938945B, 授权日: 2023.11.28, 申请号：202010604021.X, 申请日：2020.6.29.
 - 徐恪，杜鑫乐，李彤，郑凯，吴波. "基于交换机主动队列管理的拥塞控制方法和装置." 中国专利， 授权号：CN110391992B，授权日：2021.02.23. 申请号：201910625794.3，申请日：2019.10.29.
 - 徐恪，付松涛，李彤，郑凯. "管理反向队列的传输控制方法及系统." 中国专利，授权号：CN109714267B, 授权日：2021.01.29. 申请号：201811599153.7，申请日：2019.05.03.
-- Ke Xu, Tong Li, Xin Liu, Meng Shen. "Resource allocation method under heterogeneous network under intermediate processing constraints." US Patent, 授权号：US10412023B2, 授权日：2019.09.10. 申请号：US15771946，申请日：2016.11.07.
 - 徐恪，李彤，刘昕，沈蒙. "中间处理约束下的异构网络资源配置方法." 中国专利, 授权号：CN105376112B, 授权日：2018.06.19. 申请号：201510822590.0，申请日：2015.11.24.
 - 徐恪，李彤，沈蒙. "在域内路由器节点上配置流量的方法." 中国专利, 授权号：CN103297341B, 授权日：2016.04.20. 申请号：201310279174.1，申请日：2013.07.04.
 - 陈晶，郑明辉，杜瑞颖，傅建明，李彤. "一种基于云计算的网络虚拟磁盘文件安全管理方法." 中国专利, 授权号：CN102394894B, 授权日：2014.01.15. 申请号：201110383355.X，申请日：2011.11.28.
-
-# Applied Patents
-
-- 吴波, 罗成, 李彤. "数据的传输控制方法、装置、 电子设备和存储介质." 中国专利. 申请号: 202211542888. 2. 申请日: 2022.12.02
-- 吴波, 罗成, 李彤. "数据包的传输方法、装置、 设备及存储介质." 中国专利. 申请号: 202211697316. 1. 申请日: 2022.12.28
-- 李彤，李卫，朱银峰，马心宇. "一种视频流的传输方法、装置、电子设备及存储介质." 中国专利. 申请号：202310458996X​. 申请日：2023.04.25.
-- 李彤，徐恪，杜鑫乐，黄翰林，戴惠辰，郑凯. "一种数据处理方法以及相关设备." 中国专利. 申请号：202111415441.4​. 申请日：2021.11.25.
-- 秦鹏，邹韬，李彤，阎露. "接触追踪方法及相关设备." 中国专利. 申请号：202110487648.6. 申请日：2021.04.30.
-- 李彤，阎露，李杰. "一种用于数据查询的方法和装置." 中国专利. 申请号：202110473082.1. 申请日：2021.04.29.
-- 李彤, 郑凯，李柏潮. "一种信标感知方法、装置、设备及系统." 中国专利, 申请号：202110411441.0. 申请日：2021.04.16.
-- Matiunin Andrey, Tong Li, Jie Li. "A method of matching pilots with encoded data for acoustic communication." Patent Cooperation Treaty, PCT/CN2021/084811, 2021.04.01.
-- Menglong Zhang, Jie Li, Tong Li. "Data packet sending method and apparatus." Patent Cooperation Treaty, PCT/CN2021/080359, 2021.03.12.
-- 张梦龙，李杰，李彤. "数据包发送的方法、装置." 中国专利, 申请号：202010604021.X, 申请日：2020.6.29.
-- Tong Li，Kai Zheng, Shengjun Chen, Junsen Chen, Jiao Kang. "Acknowledgement message processing method, communication appartus, and storage medium." Patent Cooperation Treaty, PCT/CN2020/124291, 2020.10.28.
-- Tong Li, Kai Zheng, Shengjun Chen, Junsen Chen, Fanzhao Wang. "System, method, and apparatus for evaluating round-trip time." European Patent，申请号：EP20839648.1, PCT：PCT/CN2020/101547, 申请日：2020.07.13.
-- Tong Li, Kai Zheng, Dang Su, Xinping Chen. "Data transmission method and apparatus." European Patent，申请号：EP20779102.1, PCT：PCT/CN2020/072862, 申请日：2020.01.17.
-- Tong Li, Kai Zheng, Dang Su, Xinping Chen. "Data transmission method and apparatus." US Patent, 申请号：US17484164, PCT：PCT/CN2020/072862, 申请日：2020.01.17.
-- Jiao Kang, Fanzhao Wang, Hao Wang, Tong Li, Libo Yu, Kai Zheng. "Connection establishment method and related device." European Patent，申请号：EP19902151.0, PCT：PCT/CN2019/128100, 申请日：2019.12.24.
-- Jiao Kang, Fanzhao Wang, Hao Wang, Tong Li, Libo Yu, Kai Zheng. "Connection establishment method and related device." US Patent, 申请号：US17359309, PCT：PCT/CN2019/128100, 申请日：2019.12.24.
