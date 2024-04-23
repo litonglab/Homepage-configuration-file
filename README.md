@@ -27,11 +27,7 @@ cd ..
 git clone git@github.com:litonglab/litonglab.github.io.git
 ```
 
-6. 重新进入Homepage-configuration-file文件夹，运行脚本sync.sh，将public 文件夹下的文件同步到litonglab.github.io文件夹下
-```markdown
-cd Homepage-configuration-file
-./sync.sh
-```
+6. 重新进入Homepage-configuration-file文件夹，将public 文件夹下的所有文件和文件夹拷贝到litonglab.github.io文件夹下，同名的文件和文件夹请选择覆盖
 
 7. 退出Homepage-configuration-file文件夹，进入litonglab.github.io.git文件夹，将代码同步到github
 ```markdown
