@@ -18,6 +18,9 @@ twitter_cards: false
 ---
 # News
 
+- 2024.07.24  Our paper is accepted by USENIX NSDI 2025. The first NSDI paper in the history of Renmin University of China.
+- 2024.07.16  Our paper is accepted by ACM Multimedia (MM) 2024 .
+- 2024.07.11  Our paper is accepted by IEEE/ACM TON.
 - 2024.04.15	Two of our papers are accepted by IEEE/ACM IWQoS 2024.
 - 2024.04.13	Our paper is accepted by IEEE ICDCS 2024.
 - 2023.10.25  Our paper is accepted by IEEE WISE.
@@ -31,6 +34,8 @@ twitter_cards: false
 - 2023.02.11  Our paper is accepted by IEEE INFOCOM Demo 2023.
 - 2023.02.06  Our paper is accepted by IEEE Communications Magazine.
 
+- 2024.06.05  "求是学术" 品牌研究项目立项
+- 2024.06.05  我们的文章已经被《软件学报》录用.
 - 2022.12.06  实验室成员获得2022 年“中国高校计算机大赛—智能交互创新赛”全国总决赛三等奖。
   成员：蒋岱均（大二）、曹思源 （大三）、杨兆棋（大二）、刘威（研一）
 - 2022.12.02  Our paper is accepted by IEEE INFOCOM 2023.
