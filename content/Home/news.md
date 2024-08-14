@@ -12,6 +12,11 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- 2024.07.24  Our paper is accepted by NSDI'25.
+- 2024.07.23  Our paper is accepted by TON.
+- 2024.07.21  Our paper is accepted by ACM 'MM'24.
+- 2024.06.05  "求是学术" 品牌研究项目立项
+- 2024.06.05  我们的文章已经被《软件学报》录用.
 - 2024.04.15	Two of our papers are accepted by IEEE/ACM IWQoS 2024.
 - 2024.04.13	Our paper is accepted by IEEE ICDCS 2024.
 - 2023.10.25  Our paper is accepted by IEEE WISE.
