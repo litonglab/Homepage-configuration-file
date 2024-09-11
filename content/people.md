@@ -33,6 +33,7 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
   
 # Master Students
 
+- Meng Jiang (master student since 2024)
 - Baoli Liu (master student since 2024)
 - Jiuxiang Zhu (master student since 2024)
 - Zegang Sun (master student since 2023)
@@ -44,6 +45,9 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 # Alumni
 - Shuaipeng Zhu (2022-2024, Master Degree)
 - Xinyu Ma (2022-2024, Master Degree)
+- Guanjie Tu (2020-2024, Undergraduate student)
+- Siyuan Cao (2020-2024, Undergraduate student)
+- Yijin Zhu (2020-2024, Undergraduate student)
 
 # Undergraduate Students
 
@@ -64,9 +68,7 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Zhongqi Tang (undergraduate student since 2021)
 - Haoyue Li (undergraduate student since 2021)
 - Haohan Liao (undergraduate student since 2021)
-- Guanjie Tu (undergraduate student since 2020)
-- Siyuan Cao (undergraduate student since 2020)
-- Yijin Zhu (undergraduate student since 2020)
+
 
 
 # Annual Group Photo @ 2024
