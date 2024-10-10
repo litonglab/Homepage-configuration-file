@@ -40,7 +40,6 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Xu Yan (master student since 2023)
 - Wei Liu (master student since 2022)
 - Shangwen Jiang (master student since 2022)
-- Shuoru Yuan (master student since 2022)
 
 # Alumni
 - Shuaipeng Zhu (2022-2024, Master Degree)
