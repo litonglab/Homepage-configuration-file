@@ -12,9 +12,11 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- 2024.10.05  Our paper is accepted by IEEE/ACM TON.
+- 2024.09.23	Professor Li was awarded as the ACM SIGCOMM China Rising Star Award (新星奖). (Ranking first)
 - 2024.09.10	Our paper is accepted by IEEE S&P 2025. (Acceptance rate 14.3%)
 - 2024.07.24  Our paper is accepted by USENIX NSDI 2025. The first NSDI paper in the history of Renmin University of China.
-- 2024.07.16  Our paper is accepted by ACM Multimedia (MM) 2024 .
+- 2024.07.16  Our paper is accepted by ACM Multimedia (MM) 2024 .（Oral paper）
 - 2024.07.11  Our paper is accepted by IEEE/ACM TON.
 - 2024.06.05  "求是学术" 品牌研究项目立项
 - 2024.06.05  我们的文章已经被《软件学报》录用.

@@ -69,13 +69,14 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Haohan Liao (undergraduate student since 2021)
 
 
-
-# Annual Group Photo @ 2024
+# Annual Group Photo @ 2024 Autumn
+{{< figure src="/images/group_photo_2024_2.jpg" caption="" >}}
+# Annual Group Photo @ 2024 Spring
 {{< figure src="/images/group_photo_2024.jpg" caption="" >}}
 
-# Annual Group Photo @ 2023
-
+# Annual Group Photo @ 2023 Autumn
 {{< figure src="/images/group_photo_2023_2.jpg" caption="" >}}
+# Annual Group Photo @ 2023 Spring
 {{< figure src="/images/group_photo_2023.png" caption="" >}}
 
 

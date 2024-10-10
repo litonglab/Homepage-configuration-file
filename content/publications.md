@@ -7,15 +7,15 @@ type: 'gallery/list'
 
 - Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu:
 Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.
-IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23. [to appear]
+IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20First-Frame%20Delay%20of%20Live%20Streaming%20by%20Simultaneously%20Initializing%20Window%20and%20Rate.pdf)]
 
 - Hanlin Huang, Ke Xu, Xinle Du, Yiyang Shao, Jie Li, Xiangyu Gao, Tong Li:
 Performant TCP over Wi-Fi Direct.
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2024.06.19. [to appear]
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2024.06.19. [[paper](https://www.semanticscholar.org/paper/Performant-TCP-over-Wi-Fi-Direct-Huang-Xu/dffcf151cab927a83d8a9b991013dd4b63ef1dba)]
 
 - Ziwei Li, Zhaoqi Yang, Bowen Hu, Tong Li, Bo Wu, Yukuan Ding, Dulin Xu, and Ke Xu:
 ReND: Toward Reasoning-based BLE Neighbor Discovery by Integrating with Wi-Fi Fingerprints.
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-6, 2024.06.19. [to appear]
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-6, 2024.06.19. [[paper](http://iir.ruc.edu.cn/~litong/papers/ReND_Toward%20Reasoning-based%20BLE%20Neighbor%20Discovery%20by%20Integrating%20with%20Wi-Fi%20Fingerprints.pdf)]
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.[[paper]](https://icnp23.cs.ucr.edu/assets/papers/icnp23-final36.pdf)
 
