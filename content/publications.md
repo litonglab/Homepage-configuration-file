@@ -11,9 +11,7 @@ type: 'gallery/list'
 
 - Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu:PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters.USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI), pp. 1-25, 2024.7.24. [to appear]
 
-- Bo Wu, Tong Li*, Cheng Luo, Xu Yan, FuYu Wang, Xinle Du, Ke Xu:Toward Timeliness-Enhanced Loss Recovery for Large-Scale Live Streaming.
-
-- ACM Multimedia (ACM MM), pp. 1-9, 2024.10.28. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
+- Bo Wu, Tong Li*, Cheng Luo, Xu Yan, FuYu Wang, Xinle Du, Ke Xu:Toward Timeliness-Enhanced Loss Recovery for Large-Scale Live Streaming.ACM Multimedia (ACM MM), pp. 1-9, 2024.10.28. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
 
 - Hanlin Huang, Xinle Du, Tong Li*, Haiyang Wang, Ke Xu, Mowei Wang, Huichen Dai:Re-architecting Buffer Management in Lossless Ethernet.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-15, 2024.07.11. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
 
