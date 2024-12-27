@@ -5,15 +5,20 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao:DiffECN: Differential ECN Marking for Datacenter Networks.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
+- Duling Xu, Dafang Zhang, Tong Li*, Yunpeng Chai, Zegang Sun, Weiming Li, Yangfan Liu, Qipeng Wang, Jiaqi Liang, Yang Ren, Wei Lu, Xiaoyong Du:GeoLM: Performance-oriented Leader Management for Geo-Distributed Consensus Protocol. IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-10, 2024.12.06. [to appear]
 
-- Guangmeng Zhou, Xiongwen Guo, Zhuotao Liu, Tong Li, Qi Li, Ke Xu:TrafficFormer: An Efficient Pre-trained Model for Traffic Data.IEEE Symposium on Security and Privacy (IEEE S&P), pp. 1-15, 2024.9.10. [to appear]
+- Qiyu Zhuang, Xinyue Shi, Wei Lu, Yuxing Chen, Zhanhao Zhao, Tong Li, Anqun Pan, and Xiaoyong Du:
+GeoTP: Latency-aware Geo-Distributed TransactionProcessing in Database Middlewares. IEEE InternationalConference on Data Engineering (IEEE ICDE), pp. 1-14, 2024.11.27. [to appear]
+
+- Zhiyi Yao, Zuning Liang, Yuedong Xu, Jin Zhao, Jessie Hui Wang, Tong Li:MemFerry: A Fast and Memory Efficient Offload Training Framework with Hybrid GPU Computation. IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-10, 2024.12.06. [to appear]
+
+- Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu:PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters. USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI), pp. 1-25, 2024.7.24. [to appear]
+
+- Guangmeng Zhou, Xiongwen Guo, Zhuotao Liu, Tong Li, Qi Li, Ke Xu:TrafficFormer: An Efficient Pre-trained Model for Traffic Data. IEEE Symposium on Security and Privacy (IEEE S&P), pp. 1-15, 2024.9.10. [to appear]
 
 - Xinle Du, Tong Li*, Guangmeng Zhou, Zhuotao Liu, Hanlin Huang, Xiangyu Gao, Mowei Wang, Kun Tan, Ke Xu:PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters.USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI), pp. 1-25, 2024.7.24. [to appear]
 
 - Bo Wu, Tong Li*, Cheng Luo, Xu Yan, FuYu Wang, Xinle Du, Ke Xu:Toward Timeliness-Enhanced Loss Recovery for Large-Scale Live Streaming.ACM Multimedia (ACM MM), pp. 1-9, 2024.10.28. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
-
-- Hanlin Huang, Xinle Du, Tong Li*, Haiyang Wang, Ke Xu, Mowei Wang, Huichen Dai:Re-architecting Buffer Management in Lossless Ethernet.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-15, 2024.07.11. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
 
 - Bo Wu, Tong Li, Cheng Luo, Xu Yan, Fuyu Wang, Changkui Ouyang, Lingfeng Guo, Haiyang Wang, Ke Xu:Reducing First-Frame Delay of Live Streaming by Simultaneously Initializing Window and Rate.IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), pp. 1-11, 2024.07.23.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20First-Frame%20Delay%20of%20Live%20Streaming%20by%20Simultaneously%20Initializing%20Window%20and%20Rate.pdf)]
 
@@ -64,6 +69,10 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 - Fajiang Yu, Tong Li, Lin Yang, Zhang Huanguo: Hierarchical-CPK-based trusted computing cryptography scheme. Springer International Conference on Autonomic and Trusted Computing (ATC), pp. 149-163, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Hierarchical-CPK-based%20trusted%20computing%20cryptography%20scheme.pdf)
 
 # Journal Papers
+
+- Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao:DiffECN: Differential ECN Marking for Datacenter Networks.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
+
+- Hanlin Huang, Xinle Du, Tong Li*, Haiyang Wang, Ke Xu, Mowei Wang, Huichen Dai:Re-architecting Buffer Management in Lossless Ethernet.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-15, 2024.07.11. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
 
 - Xu Zhang, Geyong Min, Tong Li, Zhan Ma, Xun Cao, Shaowei Wang: AI and Blockchain Empowered Metaverse for Web 3.0: Vision, Architecture, and Future Directions. IEEE Communications Magazine, pp. 1-7, 2023.2.7. [[paper]](http://iir.ruc.edu.cn/~litong/papers/AI%20and%20Blockchain%20Empowered%20Metaverse%20for%20Web%203.0_Vision,%20Architecture,%20and%20Future%20Directions.pdf)
 
