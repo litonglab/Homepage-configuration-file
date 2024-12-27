@@ -12,6 +12,9 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- 2024.12.06	Two of our papers are accepted by IEEE INFOCOM 2025.
+- 2024.11.27	Our paper is accepted by IEEE ICDE 2025.
+- 2024.11.10	I was invited to give a talk in 中国网络大会（ChinaNet）.
 - 2024.10.05  Our paper is accepted by IEEE/ACM TON.
 - 2024.09.23	Professor Li was awarded as the ACM SIGCOMM China Rising Star Award (新星奖). (Ranking first)
 - 2024.09.10	Our paper is accepted by IEEE S&P 2025. (Acceptance rate 14.3%)
