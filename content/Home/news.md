@@ -12,6 +12,7 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- 2025.02.12	Two of our papers are accepted by IEEE INFOCOM Demo 2025.
 - 2024.12.06	Two of our papers are accepted by IEEE INFOCOM 2025.
 - 2024.11.27	Our paper is accepted by IEEE ICDE 2025.
 - 2024.11.10	I was invited to give a talk in 中国网络大会（ChinaNet）.
