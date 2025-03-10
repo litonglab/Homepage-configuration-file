@@ -5,6 +5,12 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[[paper](http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf)]
+
+- Jingkun Cao, Tong Li*, Bowen Hu, Duling Xu, Kezhi Wang, Bo Wu:Reducing Bandwidth Demand for Video Streaming to Kbps.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20Bandwidth%20Demand%20for%20Video%20Streaming%20to%20Kbps.pdf)]
+
+- Rui Kang, Mengfei Zhu, Duling Xu, Tong Li*:A Multi-Provider Service Function Chain Paradigm for Flexible Composition.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/A%20Multi-Provider%20Service%20Function%20Chain%20Paradigm%20for%20Flexible%20Composition.pdf)] 
+
 - Duling Xu, Dafang Zhang, Tong Li*, Yunpeng Chai, Zegang Sun, Weiming Li, Yangfan Liu, Qipeng Wang, Jiaqi Liang, Yang Ren, Wei Lu, Xiaoyong Du:GeoLM: Performance-oriented Leader Management for Geo-Distributed Consensus Protocol. IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-10, 2024.12.06. [to appear]
 
 - Qiyu Zhuang, Xinyue Shi, Wei Lu, Yuxing Chen, Zhanhao Zhao, Tong Li, Anqun Pan, and Xiaoyong Du:
