@@ -17,7 +17,9 @@ open_graph: false
 twitter_cards: false
 ---
 # News
-- - 2025.03.20  ACM SIGCOMM 2025 Workshop [Call for paper]: Submission deadline May 8th, 2025 [[The 3rd Workshop on Emerging Multimedia Systems (EMS)](https://conferences.sigcomm.org/sigcomm/2025/workshop/ems/)]
+
+- 2025.03.29	Our paper is accepted by IEEE TC.
+- 2025.03.20  ACM SIGCOMM 2025 Workshop [Call for paper]: Submission deadline May 8th, 2025 [[The 3rd Workshop on Emerging Multimedia Systems (EMS)](https://conferences.sigcomm.org/sigcomm/2025/workshop/ems/)]
 - 2025.02.18  Our paper is accepted by IEEE TMC.
 - 2025.02.12	Two of our papers are accepted by IEEE INFOCOM Demo 2025.
 - 2024.12.06	Two of our papers are accepted by IEEE INFOCOM 2025.

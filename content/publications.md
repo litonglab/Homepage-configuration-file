@@ -5,8 +5,6 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[[paper](http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf)]
-
 - Jingkun Cao, Tong Li*, Bowen Hu, Duling Xu, Kezhi Wang, Bo Wu:Reducing Bandwidth Demand for Video Streaming to Kbps.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20Bandwidth%20Demand%20for%20Video%20Streaming%20to%20Kbps.pdf)]
 
 - Rui Kang, Mengfei Zhu, Duling Xu, Tong Li*:A Multi-Provider Service Function Chain Paradigm for Flexible Composition.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/A%20Multi-Provider%20Service%20Function%20Chain%20Paradigm%20for%20Flexible%20Composition.pdf)] 
@@ -76,6 +74,11 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 
 # Journal Papers
 
+- Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.
+IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. [to appear]
+
+- Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[[paper](http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf)]
+
 - Hanlin Huang, Ke Xu, Tong Li*, Zhuotao Liu, Xinle Du, Xiangyu Gao:DiffECN: Differential ECN Marking for Datacenter Networks.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2024.10.05. [to appear]
 
 - Hanlin Huang, Xinle Du, Tong Li*, Haiyang Wang, Ke Xu, Mowei Wang, Huichen Dai:Re-architecting Buffer Management in Lossless Ethernet.IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-15, 2024.07.11. [[paper](http://iir.ruc.edu.cn/~litong/papers/Re-architecting%20Buffer%20Management%20in%20Lossless%20Ethernet.pdf)]
@@ -118,6 +121,8 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 - Tong Li, Fajiang Yu, Yang Lin Y, Xueyuan Kong, Yue Yu: Trusted computing dynamic attestation using a static analysis based behavior model. Journal of Convergence, vol. 2, no. 1, pp. 61-68, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Trusted%20computing%20dynamic%20attestation%20using%20a%20static%20analysis%20based%20behaviour%20model.pdf)
 
 # Chinese Papers
+
+_ 李彤, 徐都玲, 吴波, 郭雄文, 蒋岱均, 罗成, 卢卫, 杜小勇:广域确定性网络传输技术研究综述.软件学报, vol. 36, no. 1, pp. 371-398, 2025.01.09. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E5%B9%BF%E5%9F%9F%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pdf)
 
 - 黄翰林, 徐 恪, 李 琦, 李彤, 付松涛, 高翔宇:可扩展的网络验证技术: 研究现状与发展趋势. 电子学报, pp. 1-22, 2024.03.16. [[paper]](http://iir.ruc.edu.cn/~litong/papers/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81%E6%8A%80%E6%9C%AF.pdf)
 
