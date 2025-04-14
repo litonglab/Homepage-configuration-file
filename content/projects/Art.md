@@ -22,4 +22,4 @@ Packet losses significantly impact the user experience of wide-area applications
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. [to appear]
 
-{{< figure src="Key_modules_of_ART.png" caption="Key modules of ART" >}}
+{{< figure src="/images/project_art.png" caption="Key modules of ART" >}}
