@@ -20,6 +20,8 @@ Packet losses significantly impact the user experience of wide-area applications
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jinkun Cao, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Ke Xu. ART: Adaptive Retransmission for Wide-Area Loss Recovery in the Wild. IEEE International Conference on Network Protocols (ICNP), pp.1-11, 2023.10.10.
 
-- Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. [to appear]
+- Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. 
+
+- Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[[paper](http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf)]
 
 {{< figure src="/images/project_art.png" caption="Key modules of ART" >}}

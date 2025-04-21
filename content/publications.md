@@ -73,7 +73,7 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 # Journal Papers
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.
-IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. [to appear]
+IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. 
 
 - Tong Li, Yukuan Ding, Jiaxin Liang, Kai Zheng, Xu Zhang, Tian Pan, Dan Wang, Ke Xu, Kezhi Wang, Ke Xu:Toward Optimal Broadcast Mode in Offline Finding Network.IEEE Transactions on Mobile Computing (IEEE TMC), pp. 1-16, 2025.[[paper](http://iir.ruc.edu.cn/~litong/papers/Toward%20Optimal%20Broadcast%20Mode%20in%20Offline%20Finding%20Network-TMC-full.pdf)]
 

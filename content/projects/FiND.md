@@ -1,6 +1,6 @@
 ---
 title: 'FiND'
-weight: 3
+weight: 4
 bookcase_cover_src: 'images/project_find.png'
 bookcase_cover_src_dark: 'images/project_find.png'
 changelogs:

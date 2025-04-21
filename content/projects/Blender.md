@@ -1,6 +1,6 @@
 ---
 title: 'Blender'
-weight: 2
+weight: 3
 bookcase_cover_src: '/images/project_blender.png'
 bookcase_cover_src_dark: '/images/project_blender.png'
 changelogs:

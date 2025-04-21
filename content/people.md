@@ -28,11 +28,16 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 
 
 # PhD Students
-
+- Le Xie (PhD student since 2025)
+- Zengxie Ma (PhD student since 2025)
 - Duling Xu (PhD student since 2022)
-  
-# Master Students
 
+# Master Students
+- Chenchen  Wang (master student since 2025)
+- Haoyi Fang (master student since 2025)
+- Bowen Hu (master student since 2025)
+- Jingkun Cao (master student since 2025)
+- Lei Chen (master student since 2024)
 - Meng Jiang (master student since 2024)
 - Baoli Liu (master student since 2024)
 - Jiuxiang Zhu (master student since 2024)
@@ -49,7 +54,6 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Yijin Zhu (2020-2024, Undergraduate student)
 
 # Undergraduate Students
-
 - Xiaoyao Feng (undergraduate student since 2022)
 - Jingyue Zhou (undergraduate student since 2022)
 - Jiahe Zhang (undergraduate student since 2022)
@@ -58,9 +62,7 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Peiyu Zhao (undergraduate student since 2022)
 - Yaoping Luo (undergraduate student since 2022)
 - Jingjing Li (undergraduate student since 2022)
-- Bowen Hu (undergraduate student since 2021)
 - Zhaoqi Yang (undergraduate student since 2021)
-- Jingkun Cao (undergraduate student since 2021)
 - Yilin Yang (undergraduate student since 2021)
 - Daijun Jiang (undergraduate student since 2021)
 - Xiongwen Guo (undergraduate student since 2021)
