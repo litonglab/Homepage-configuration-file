@@ -29,7 +29,7 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 
 # PhD Students
 - Le Xie (PhD student since 2025)
-- Zengxie Ma (PhD student since 2025)
+- Zengxie Ma (PhD student since 2024)
 - Duling Xu (PhD student since 2022)
 
 # Master Students
