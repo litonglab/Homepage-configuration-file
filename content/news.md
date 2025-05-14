@@ -18,6 +18,11 @@ twitter_cards: false
 ---
 # News
 
+- 2025.05.13  Our team member Liu Wei has been awarded the title of 'Outstanding Graduate of Beijing City'.
+- 2025.04.30	Our paper is accepted by IEEE/ACM IWQoS 2025.
+- 2025.04.26	Our paper is accepted by ACM SIGCOMM 2025.
+- 2025.04.20	Our paper is accepted by IEEE/ACM TON.
+- 2025.03.29	Our paper is accepted by IEEE TC.
 - 2025.03.29	Our paper is accepted by IEEE TC.
 - 2025.03.20  ACM SIGCOMM 2025 Workshop [Call for paper]: Submission deadline May 8th, 2025 [[The 3rd Workshop on Emerging Multimedia Systems (EMS)](https://conferences.sigcomm.org/sigcomm/2025/workshop/ems/)]
 - 2025.02.18  Our paper is accepted by IEEE TMC.
