@@ -5,6 +5,14 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- Zengxie Ma, Yao Xin, Ying Chen, Zhuochen Fan, Tong Li*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang:
+WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows.
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2025. [to appear]
+
+- Yinchao Zhang, Su Yao, Yong Feng, Kang Chen, Tong Li, Zhuotao Liu, Yi Zhao, Lexuan Zhang, Xiangyu Gao, Feng Xiong, Qi Li, Ke Xu:Pegasus: 
+A Universal Framework for Scalable Deep Learning Inference on the Dataplane.
+ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-14, 2025. [to appear]
+
 - Jingkun Cao, Tong Li*, Bowen Hu, Duling Xu, Kezhi Wang, Bo Wu:Reducing Bandwidth Demand for Video Streaming to Kbps.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20Bandwidth%20Demand%20for%20Video%20Streaming%20to%20Kbps.pdf)]
 
 - Rui Kang, Mengfei Zhu, Duling Xu, Tong Li*:A Multi-Provider Service Function Chain Paradigm for Flexible Composition.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/A%20Multi-Provider%20Service%20Function%20Chain%20Paradigm%20for%20Flexible%20Composition.pdf)] 
@@ -71,6 +79,9 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 - Fajiang Yu, Tong Li, Lin Yang, Zhang Huanguo: Hierarchical-CPK-based trusted computing cryptography scheme. Springer International Conference on Autonomic and Trusted Computing (ATC), pp. 149-163, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Hierarchical-CPK-based%20trusted%20computing%20cryptography%20scheme.pdf)
 
 # Journal Papers
+
+- Tong Li, Xinle Du, Xiangyu Gao, Guangmeng Zhou, Hanlin Huang, Zhuotao Liu, Mowei Wang, Kun Tan, Ke Xu:Revisiting Random Early Detection Tuning for High-Performance Datacenter Networks.
+IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2025. [to appear]
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.
 IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. 
