@@ -18,7 +18,7 @@ twitter_cards: false
 ---
 # News
 
-- 2025.05.13  Our team member Liu Wei has been awarded the title of 'Outstanding Graduate of Beijing City'.
+- 2025.05.13  Our team member Liu Wei has been awarded the title of '北京市优秀毕业生'.
 - 2025.04.30	Our paper is accepted by IEEE/ACM IWQoS 2025.
 - 2025.04.26	Our paper is accepted by ACM SIGCOMM 2025.
 - 2025.04.20	Our paper is accepted by IEEE/ACM TON.
