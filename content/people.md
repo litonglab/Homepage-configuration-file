@@ -46,8 +46,8 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 
 
 # Alumni
-- Wei Liu (刘威，2022-2025, Master Degree,中信证券)
-- Shangwen Jiang (蒋尚文，2022-2025, Master Degree,京东零售)
+- Wei Liu (刘威，2022-2025, Master Degree,京东零售)
+- Shangwen Jiang (蒋尚文，2022-2025, Master Degree,中信证券)
 - Shuaipeng Zhu (朱帅鹏，2022-2024, Master Degree,中国电气装备集团许继电气科学技术研究院)
 - Xinyu Ma(马辛宇，2022-2024, Master Degree,国家能源集团)
 - Guanjie Tu (2020-2024, Undergraduate student)
