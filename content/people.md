@@ -29,7 +29,6 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 
 # PhD Students
 - Le Xie (谢乐，PhD student since 2025)
-- Zengxie Ma (马增协，PhD student since 2024)
 - Duling Xu (徐都玲，PhD student since 2022)
 
 # Master Students
@@ -50,9 +49,6 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Shangwen Jiang (蒋尚文，2022-2025, Master Degree,中信证券)
 - Shuaipeng Zhu (朱帅鹏，2022-2024, Master Degree,中国电气装备集团许继电气科学技术研究院)
 - Xinyu Ma(马心宇，2022-2024, Master Degree,国家能源集团)
-- Guanjie Tu (2020-2024, Undergraduate student)
-- Siyuan Cao (2020-2024, Undergraduate student)
-- Yijin Zhu (2020-2024, Undergraduate student)
 
 # Undergraduate Students
 - Xiaoyao Feng (冯宵瑶，undergraduate student since 2022)
