@@ -12,6 +12,10 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- 2025.09.14	第三届CCF中国网络大会（ChinaNet-2025）-[智能体与未来网络融合创新分论坛](https://ccf.org.cn/chinanet2025/schedule_d_3011)，将于2025年9月14日14:00-17:30，在沈阳香格里拉大酒店2F宴会2召开.
+- 2025.07.14	Our paper is accepted by USENIX NSDI 2026.
+- 2025.07.10	计算机网络教学改革项目获评教育部"101计划"优秀教材试点应用项目.
+- 2025.06.20	《广域确定性网络传输技术综述》论文视频入选了《软件学报》高传播力视频Top10 [video](https://mp.weixin.qq.com/s/VyqlkT94uiO19ulnGYu9NA?poc_token=HG2CiGijw4WrBEy4sqq0xUZ_IvAYlo4qgXVprwwS)
 - 2025.05.13  Our team member Wei Liu has been awarded the title of '北京市优秀毕业生'.
 - 2025.04.30	Our paper is accepted by IEEE/ACM IWQoS 2025.
 - 2025.04.26	Our paper is accepted by ACM SIGCOMM 2025.

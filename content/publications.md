@@ -5,13 +5,17 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- Zengxie Ma, Yao Xin, Ying Chen, Zhuochen Fan, Tong Li*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang:
-WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows.
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2025. [to appear]
+- Xiangyu Gao, Tong Li, Yinchao Zhang, Ziqiang Wang, Xiangsheng Zeng, Su Yao, Ke Xu:
+FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches.
+USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI), pp. 1-16, 2026.5.4. [[paper]](http://iir.ruc.edu.cn/~litong/papers/FENIX-NSDI2026-arXiv.pdf)
 
 - Yinchao Zhang, Su Yao, Yong Feng, Kang Chen, Tong Li, Zhuotao Liu, Yi Zhao, Lexuan Zhang, Xiangyu Gao, Feng Xiong, Qi Li, Ke Xu:Pegasus: 
 A Universal Framework for Scalable Deep Learning Inference on the Dataplane.
-ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-14, 2025. [to appear]
+ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-14, 2025.9.8. [[paper]](http://iir.ruc.edu.cn/~litong/papers/sigcomm25-final880.pdf)
+
+- Zengxie Ma, Yao Xin, Ying Chen, Zhuochen Fan, Tong Li*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang:
+WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows.
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS), pp. 1-10, 2025.7.2. [[paper]](http://iir.ruc.edu.cn/~litong/papers/WisePISketch_IWQoS_Draft.pdf)
 
 - Jingkun Cao, Tong Li*, Bowen Hu, Duling Xu, Kezhi Wang, Bo Wu:Reducing Bandwidth Demand for Video Streaming to Kbps.IEEE International Conference on Computer Communications (IEEE INFOCOM), pp. 1-2, 2025.5.19.[[paper](http://iir.ruc.edu.cn/~litong/papers/Reducing%20Bandwidth%20Demand%20for%20Video%20Streaming%20to%20Kbps.pdf)]
 
@@ -81,7 +85,7 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 # Journal Papers
 
 - Tong Li, Xinle Du, Xiangyu Gao, Guangmeng Zhou, Hanlin Huang, Zhuotao Liu, Mowei Wang, Kun Tan, Ke Xu:Revisiting Random Early Detection Tuning for High-Performance Datacenter Networks.
-IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2025. [to appear]
+IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2025. [paper](http://iir.ruc.edu.cn/~litong/papers/Revisiting%20Random%20Early%20Detection%20Tuning%20for%20High-Performance%20Datacenter%20Networks.pdf)
 
 - Tong Li, Wei Liu, Xinyu Ma, Shuaipeng Zhu, Jingkun Cao, Duling Xu, Zhaoqi Yang, Senzhen Liu, Taotao Zhang, Yinfeng Zhu, Bo Wu, Kezhi Wang, Ke Xu:Accelerating Loss Recovery for Content Delivery Network.
 IEEE Transactions on Computers (IEEE TC), pp. 1-14, 2025. 
@@ -169,3 +173,18 @@ IEEE Transactions on Services Computing (TSC), vol.11, no.3, pp. 534-548, 2018.0
 - 徐恪，李彤，刘昕，沈蒙. "中间处理约束下的异构网络资源配置方法." 中国专利, 授权号：CN105376112B, 授权日：2018.06.19. 申请号：201510822590.0，申请日：2015.11.24.
 - 徐恪，李彤，沈蒙. "在域内路由器节点上配置流量的方法." 中国专利, 授权号：CN103297341B, 授权日：2016.04.20. 申请号：201310279174.1，申请日：2013.07.04.
 - 陈晶，郑明辉，杜瑞颖，傅建明，李彤. "一种基于云计算的网络虚拟磁盘文件安全管理方法." 中国专利, 授权号：CN102394894B, 授权日：2014.01.15. 申请号：201110383355.X，申请日：2011.11.28.
+
+# Applied Patents
+- 乔春雨, 李彤, 胡博文, 王震, 高正擎. "一种传输确认方法、装置、电子设备及存储介质." 中国专利. 202510984027.7​. 申请日：2025.07.16.
+- 李彤, 徐都玲, 孙泽港, 卢卫, 杜小勇. "一种地理分布式系统通信方法、装置及设备." 中国专利. 202510553515.2​. 申请日：2025.04.29.
+- 李彤, 曹景堃, 胡博文, 杜小勇. "一种基于AIGC的实时视频通信方法." 中国专利. 202510537931.3​. 申请日：2025.04.27.
+- 李彤, 梁家琦，徐都玲，柴云鹏. "节点选举方法及相关装置." 中国专利. 202510038686.1​. 申请日：2025.01.14.
+- 李彤, 祝久翔, 吴波, 罗成. "数据传输方法、装置、产品和设备." 中国专利. 202510398761.5. 申请日：2025.04.01.
+- 李彤, 祝久翔, 吴波, 罗成, 刘保莉. "信息处理方法、装置、设备及存储介质." 中国专利. xxxxxx​. 申请日：xxxxxx.
+- 李彤, 祝久翔, 闫旭, 吴波, 罗成. "一种数据主动重传方法、系统、设备及存储介质." 中国专利. 202411379547.7​. 申请日：2024.09.29.
+- 朱恺朗, 夏华辉, 陈晋川, 李彤. "自适应调整联盟链时限参数的方法、装置及电子设备." 中国专利. 202410348076.7​. 申请日：2024.03.26.
+- 李彤，蒋尚文，吴波，罗成. "网络数据检测方法、装置、计算机设备和存储介质." 中国专利. 申请号：202410009334.9​. 申请日：2024.01.04.
+- 卢卫, 杜小勇, 李彤, 庄琪钰, 陈育兴, 潘安群. "一种分布式事务处理方法、装置、设备及存储介质." 中国专利. 202311268432.6​. 申请日：2023.09.26.
+- 单卫，刘森镇，王剑，李彤，马心宇，刘威. "数据传输方法、装置、电子设备及存储介质." 中国专利. 申请号：202311109313.6​. 申请日：2023.08.30.
+- 单卫，朱银峰，王剑，李彤，朱帅鹏. "数据发送速率控制方法、装置、电子设备及存储介质." 中国专利. 申请号：202310869120.4​. 申请日：2023.07.17.
+- 单卫，李彤，朱银峰，马心宇，王剑. "一种视频流的传输方法、装置、电子设备及存储介质." 中国专利. 申请号：202310458996.X​. 申请日：2023.04.25.
