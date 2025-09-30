@@ -32,11 +32,9 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Duling Xu (徐都玲，PhD student since 2022)
 
 # Master Students
-- Chenchen  Wang (汪陈晨，master student since 2025)
 - Haoyi Fang (方浩懿，master student since 2025)
 - Bowen Hu (胡博文，master student since 2025)
 - Jingkun Cao (曹景堃，master student since 2025)
-- Lei Chen (陈磊，master student since 2024)
 - Meng Jiang (江猛，master student since 2024)
 - Baoli Liu (刘保莉，master student since 2024)
 - Jiuxiang Zhu (祝久翔，master student since 2024)

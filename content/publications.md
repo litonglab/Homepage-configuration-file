@@ -5,6 +5,10 @@ type: 'gallery/list'
 
 # Conference Papers
 
+- Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Jiuxiang Zhu, Laizhong Cui:
+When BBR Meets Live Streaming.
+(CCF ChinaNet), pp. 1-15, 2025.9.12. [to appear] [Outstanding Paper Award!]
+
 - Xiangyu Gao, Tong Li, Yinchao Zhang, Ziqiang Wang, Xiangsheng Zeng, Su Yao, Ke Xu:
 FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches.
 USENIX Symposium on Networked Systems Design and Implementation (USENIX NSDI), pp. 1-16, 2026.5.4. [[paper]](http://iir.ruc.edu.cn/~litong/papers/FENIX-NSDI2026-arXiv.pdf)
