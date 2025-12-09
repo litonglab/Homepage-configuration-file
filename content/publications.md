@@ -5,9 +5,9 @@ type: 'gallery/list'
 
 # Conference Papers
 
-- Duling Xu, Tong Li, Zegang Sun, Zheng Chen,Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du,:
+- Duling Xu, Tong Li*, Zegang Sun, Zheng Chen, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du:
 Performant Synchronization in Geo-Distributed Databases.
-ACM SIGMOD [[paper]](https://www.litonglab.com/pdf/Arxiv_GeoAll2All_Draft_SIGMOD.pdf)
+ACM Conference on Management of Data (ACM SIGMOD), pp. 1-14, 2026.5.31. [to appear]
 
 - Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Jiuxiang Zhu, Laizhong Cui:
 When BBR Meets Live Streaming.
@@ -91,6 +91,10 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 - Fajiang Yu, Tong Li, Lin Yang, Zhang Huanguo: Hierarchical-CPK-based trusted computing cryptography scheme. Springer International Conference on Autonomic and Trusted Computing (ATC), pp. 149-163, 2011. [[paper]](http://iir.ruc.edu.cn/~litong/papers/Hierarchical-CPK-based%20trusted%20computing%20cryptography%20scheme.pdf)
 
 # Journal Papers
+
+- Tong Li, Xu Yan, Bo Wu, Cheng Luo, Fuyu Wang, Jiuxiang Zhu, Haoyi Fang, Xinle Du, Ke Xu:
+AutoRec: Accelerating Loss Recovery for Live Streaming in a Multi-Supplier Market.
+IEEE Transactions on Networking (IEEE TON), pp. 1-16, 2026. [to appear]
 
 - Tong Li, Xinle Du, Xiangyu Gao, Guangmeng Zhou, Hanlin Huang, Zhuotao Liu, Mowei Wang, Kun Tan, Ke Xu:Revisiting Random Early Detection Tuning for High-Performance Datacenter Networks.
 IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2025. [paper](http://iir.ruc.edu.cn/~litong/papers/Revisiting%20Random%20Early%20Detection%20Tuning%20for%20High-Performance%20Datacenter%20Networks.pdf)
