@@ -1,38 +1,61 @@
 .bookcase-layout {
   display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fill, 8rem);
+  gap: 1.5rem;
+
+  /* ✅ 每行固定 3 个（桌面端） */
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  /* ✅ 响应式：平板 2 个，手机 1 个 */
+  @media (max-width: 1024px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  @media (max-width: 640px) {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
 
   .bookcase-item {
     figure {
       position: relative;
+
+      /* ✅ 固定封面容器为 4:3 */
+      aspect-ratio: 4 / 3;
+      width: 100%;
+      overflow: hidden;
+      border-radius: 0.375rem;
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+        0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+      /* 让 overlay 绝对定位时有正确高度 */
+      display: block;
     }
 
     figcaption {
       @include text-sm;
       text-align: center;
-      margin-top: .7rem;
+      margin-top: 0.7rem;
 
       a {
         color: var(--color-text);
       }
     }
 
-    img, .bookcase-item-overlay {
-      width: 8rem;
-      height: 12rem;
-      border-radius: 0.375rem;
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-      object-fit: cover;
+    /* ✅ 图片铺满 figure 的宽高，但不裁剪：完整显示 */
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* ✅ 铺满优先，允许裁剪 */
+      display: block;
     }
+    
 
+    /* ✅ overlay 覆盖整个 4:3 区域 */
     .bookcase-item-overlay {
       position: absolute;
-      top: 0;
-      left: 0;
+      inset: 0; /* top/right/bottom/left = 0 */
       background-color: transparent;
       opacity: 0.25;
-  
+      border-radius: 0.375rem;
+
       &:hover {
         background-color: var(--color-background-overlay);
       }
@@ -51,4 +74,5 @@ html[data-theme="dark"] {
     display: none;
   }
 }
+
 

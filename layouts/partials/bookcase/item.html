@@ -2,12 +2,13 @@
 {{ $cover_src_dark := .Params.bookcase_cover_src_dark | default .Params.bookcase_cover_src }}
 
 <div class="bookcase-item">
-    <figure>
-        <img src="{{ $cover_src | relURL }}" class="bookcase-item-img-light">
-        <img src="{{ $cover_src_dark | relURL }}" class="bookcase-item-img-dark">
+    <figure class="bookcase-item-figure">
+        <img src="{{ $cover_src | relURL }}" class="bookcase-item-img-light" loading="lazy" decoding="async" alt="{{ .Title }}">
+        <img src="{{ $cover_src_dark | relURL }}" class="bookcase-item-img-dark" loading="lazy" decoding="async" alt="{{ .Title }}">
         <a href="{{ .RelPermalink }}" class="bookcase-item-overlay"></a>
     </figure>
     <figcaption>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </figcaption>
 </div>
+
