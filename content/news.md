@@ -18,6 +18,7 @@ twitter_cards: false
 ---
 # News
 
+- 2026.02.13  Our NSDI paper’s presentation video has become very popular. [PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters](https://www.youtube.com/embed/tuTDHnerYvQ?si=rYeTfNzrbfPL_kxY)
 - 2025.11.24	Our paper is accepted by ACM SIGMOD 2026.
 - 2025.11.23	Our paper is accepted by IEEE TON.
 - 2025.09.13	Our paper is selected as the Outstanding Paper Award by CCF ChinaNet 2025.
