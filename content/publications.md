@@ -5,6 +5,11 @@ type: 'gallery/list'
 
 # Conference Papers
 
+
+- Mu Wang, Yiying Lin, Enhuan Dong, Shenghui Wei, Kang Chen, Tong Li, Yinchao Zhang, Renjie Xie, Su Yao, Ke Xu, Changqiao Xu:
+Forewarned is Forearmed: A Responsive Congestion Control with Non-intrusive Uplink Dynamics Capture.
+ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-21, 2026.8.17. [to appear]
+
 - Duling Xu, Tong Li*, Zegang Sun, Zheng Chen, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du:
 Performant Synchronization in Geo-Distributed Databases.
 ACM Conference on Management of Data (ACM SIGMOD), pp. 1-14, 2026.5.31. [to appear]
@@ -92,9 +97,14 @@ IEEE International Symposium on a World of Wireless, Mobile and Multimedia Netwo
 
 # Journal Papers
 
+
+- Duling Xu, Tong Li*, Yunpeng Chai, Dafang Zhang, Zegang Sun, Weiming Li, Jiaqi Liang, Yang Ren, Wei Lu, and Xiaoyong Du:
+Geo-Distributed Leader Management of Consensus Protocol: Modeling, Analysis, and Implementation.
+IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), pp. 1-18, 2026. [to appear]
+
 - Tong Li, Xu Yan, Bo Wu, Cheng Luo, Fuyu Wang, Jiuxiang Zhu, Haoyi Fang, Xinle Du, Ke Xu:
 AutoRec: Accelerating Loss Recovery for Live Streaming in a Multi-Supplier Market.
-IEEE Transactions on Networking (IEEE TON), pp. 1-16, 2026. [to appear]
+IEEE Transactions on Networking (IEEE TON), pp. 1-16, 2026. [[paper]](http://iir.ruc.edu.cn/~litong/papers/AutoRec_Accelerating_Loss_Recovery_for_Live_Streaming_in_a_Multi-Supplier_Market.pdf)
 
 - Tong Li, Xinle Du, Xiangyu Gao, Guangmeng Zhou, Hanlin Huang, Zhuotao Liu, Mowei Wang, Kun Tan, Ke Xu:Revisiting Random Early Detection Tuning for High-Performance Datacenter Networks.
 IEEE/ACM Transactions on Networking (IEEE/ACM TON), pp. 1-16, 2025. [paper](http://iir.ruc.edu.cn/~litong/papers/Revisiting%20Random%20Early%20Detection%20Tuning%20for%20High-Performance%20Datacenter%20Networks.pdf)

@@ -12,6 +12,11 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+
+- 2026.05.06	Our paper is accepted by IEEE TPDS.
+- 2026.05.12	Our paper is accepted by ACM SIGCOMM 2026.
+- 2026.04.30	Two papers are accepted by IEEE/ACM IWQoS 2026.
+- 2026.04.22	Our paper is accepted by APNet 2026.
 - 2026.02.13  Our NSDI paper’s presentation video has become very popular. [PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters](https://www.youtube.com/embed/tuTDHnerYvQ?si=rYeTfNzrbfPL_kxY)
 - 2025.11.24	Our paper is accepted by ACM SIGMOD 2026.
 - 2025.11.23	Our paper is accepted by IEEE TON.
