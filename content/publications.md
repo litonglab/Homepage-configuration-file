@@ -5,10 +5,9 @@ type: 'gallery/list'
 
 # Conference Papers
 
-
 - Mu Wang, Yiying Lin, Enhuan Dong, Shenghui Wei, Kang Chen, Tong Li, Yinchao Zhang, Renjie Xie, Su Yao, Ke Xu, Changqiao Xu:
 Forewarned is Forearmed: A Responsive Congestion Control with Non-intrusive Uplink Dynamics Capture.
-ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-21, 2026.8.17. [to appear]
+ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-21, 2026.8.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/sigcomm26-final420.pdf)
 
 - Duling Xu, Tong Li*, Zegang Sun, Zheng Chen, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du:
 Performant Synchronization in Geo-Distributed Databases.
