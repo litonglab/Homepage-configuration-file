@@ -38,27 +38,16 @@ Tong Li, Associate Professor @ Renmin University of China, Prior Chief Engineer 
 - Meng Jiang (江猛，master student since 2024)
 - Baoli Liu (刘保莉，master student since 2024)
 - Jiuxiang Zhu (祝久翔，master student since 2024)
-- Zegang Sun (孙泽港，master student since 2023)
-- Xu Yan (闫旭，master student since 2023)[优秀毕业生]
 
 
 # Alumni
-- Wei Liu (刘威，2022-2025, Master Degree,京东零售)[优秀毕业生]
+- Zegang Sun (孙泽港，2023-2026， Master Degree)
+- Xu Yan (闫旭，2023-2026， Master Degree)[北京市优秀毕业生]
+- Wei Liu (刘威，2022-2025, Master Degree,京东零售)[北京市优秀毕业生]
 - Shangwen Jiang (蒋尚文，2022-2025, Master Degree,中信证券)
 - Shuaipeng Zhu (朱帅鹏，2022-2024, Master Degree,中国电气装备集团许继电气科学技术研究院)
 - Xinyu Ma(马心宇，2022-2024, Master Degree,国家能源集团)
 
-# Undergraduate Students
-- Xiaoyao Feng (冯宵瑶，undergraduate student since 2022)
-- Peiyu Zhao (赵培宇，undergraduate student since 2022)
-- Yaoping Luo (罗垚平，undergraduate student since 2022)
-- Jingjing Li (李京京，undergraduate student since 2022)
-- Zhaoqi Yang (杨兆棋，undergraduate student since 2021)
-- Yilin Yang ( 杨艺琳，undergraduate student since 2021)
-- Xiongwen Guo (郭雄文，undergraduate student since 2021)
-- Zhongqi Tang (唐中奇，undergraduate student since 2021)
-- Haoyue Li (李皓月，undergraduate student since 2021)
-- Haohan Liao (廖浩翰，undergraduate student since 2021)
 
 # Annual Group Photo @ 2025 Spring
 {{< figure src="/images/group_photo_2025.jpg" caption="" >}}

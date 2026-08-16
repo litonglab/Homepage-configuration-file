@@ -7,11 +7,20 @@ type: 'gallery/list'
 
 - Mu Wang, Yiying Lin, Enhuan Dong, Shenghui Wei, Kang Chen, Tong Li, Yinchao Zhang, Renjie Xie, Su Yao, Ke Xu, Changqiao Xu:
 Forewarned is Forearmed: A Responsive Congestion Control with Non-intrusive Uplink Dynamics Capture.
-ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-21, 2026.8.17. [[paper]](http://iir.ruc.edu.cn/~litong/papers/sigcomm26-final420.pdf)
+ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (ACM SIGCOMM), pp. 1-21, 2026.8.17. [[paper](http://iir.ruc.edu.cn/~litong/papers/sigcomm26-final420.pdf)]
+
+- Mengfei Zhu, Rui Kang, Tong Li*:
+Poster: CLEX: Contract-Bounded Local Execution for Device-Level Network Control.
+ACM SIGCOMM, pp. 1-2, 2026.08.17. [[paper](http://iir.ruc.edu.cn/~litong/papers/sigcomm26posterdemo-final47.pdf)]
+
+- Rui Kang, Mengfei Zhu, Tong Li*:
+Poster: ActShare: Coordinating Reusable Action Requests in Multi-Agent Workflows.
+ACM SIGCOMM, pp. 1-2, 2026.08.17.[[paper](http://iir.ruc.edu.cn/~litong/papers/sigcomm26posterdemo-final89.pdf)]
 
 - Duling Xu, Tong Li*, Zegang Sun, Zheng Chen, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du:
 Performant Synchronization in Geo-Distributed Databases.
-ACM Conference on Management of Data (ACM SIGMOD), pp. 1-14, 2026.5.31. [to appear]
+ACM Conference on Management of Data (ACM SIGMOD), pp. 1-14, 2026.5.31. [[paper](http://iir.ruc.edu.cn/~litong/papers/Performant%20Synchronization%20in%20Geo-Distributed%20Databases.pdf)]
+
 
 - Xu Yan, Tong Li*, Bo Wu, Cheng Luo, Jiuxiang Zhu, Laizhong Cui:
 When BBR Meets Live Streaming.
